@@ -5,6 +5,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="secrets" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="axlsx" type="Ruby" />
     </extensionMap>

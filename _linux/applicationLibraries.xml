@@ -8688,6 +8688,14 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/erubi-1.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="erubi (v1.7.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/erubi-1.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/erubi-1.7.1/lib" />
+      </SOURCES>
+    </library>
     <library name="erubis (v2.7.0, ruby-2.1.10-p492) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.1.10/lib/ruby/gems/2.1.0/gems/erubis-2.7.0/bin" />
@@ -18346,6 +18354,14 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rack-proxy-0.6.3/lib" />
       </SOURCES>
     </library>
+    <library name="rack-proxy (v0.6.4, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rack-proxy-0.6.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rack-proxy-0.6.4/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-reverse-proxy (v0.11.0, ruby-2.1.10-p492) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.1.10/lib/ruby/gems/2.1.0/gems/rack-reverse-proxy-0.11.0/lib" />
@@ -25978,6 +25994,18 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.2.2/package" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.2.2/gemfiles" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="webpacker (v3.3.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.3.0/gemfiles" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.3.0/package" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.3.0/gemfiles" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.3.0/package" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.3.0/lib" />
       </SOURCES>
     </library>
     <library name="websocket (v1.2.1, ruby-2.2.1-p85) [gem]">

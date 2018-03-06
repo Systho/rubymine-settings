@@ -2432,12 +2432,10 @@
     </library>
     <library name="bcrypt (v3.1.11, Remote: ruby-2.4.2-p198) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/bcrypt-3.1.11/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/bcrypt-3.1.11/lib" />
       </SOURCES>
@@ -2622,12 +2620,10 @@
     </library>
     <library name="bindex (v0.5.0, Remote: ruby-2.4.2-p198) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bindex/0.5.0" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/bindex-0.5.0/lib" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/bindex-0.5.0/ext" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bindex/0.5.0" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/bindex-0.5.0/lib" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/bindex-0.5.0/ext" />
       </SOURCES>
@@ -2742,12 +2738,10 @@
     </library>
     <library name="binding_of_caller (v0.7.3, Remote: ruby-2.4.2-p198) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.7.3" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/binding_of_caller-0.7.3/ext" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/binding_of_caller-0.7.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.7.3" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/binding_of_caller-0.7.3/ext" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/binding_of_caller-0.7.3/lib" />
       </SOURCES>
@@ -3308,13 +3302,11 @@
     </library>
     <library name="byebug (v9.0.6, Remote: ruby-2.4.2-p198) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.0.6" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/byebug-9.0.6/lib" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/byebug-9.0.6/ext" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/byebug-9.0.6/bin" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.0.6" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/byebug-9.0.6/lib" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/byebug-9.0.6/ext" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/byebug-9.0.6/bin" />
@@ -7018,12 +7010,10 @@
     </library>
     <library name="debug_inspector (v0.0.3, Remote: ruby-2.4.2-p198) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/debug_inspector-0.0.3/ext" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/debug_inspector-0.0.3/ext" />
       </SOURCES>
@@ -9628,14 +9618,12 @@
     </library>
     <library name="ffi (v1.9.21, Remote: ruby-2.4.2-p198) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.21" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/ffi-1.9.21/gen" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/ffi-1.9.21/lib" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/ffi-1.9.21/ext" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/ffi-1.9.21/libtest" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.21" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/ffi-1.9.21/gen" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/ffi-1.9.21/lib" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/ffi-1.9.21/ext" />
@@ -13480,7 +13468,6 @@
     </library>
     <library name="json (v2.1.0, Remote: ruby-2.4.2-p198) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.1.0" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/json-2.1.0/tests" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/json-2.1.0/lib" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/json-2.1.0/ext" />
@@ -13491,7 +13478,6 @@
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/json-2.1.0/references" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.1.0" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/json-2.1.0/tests" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/json-2.1.0/lib" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/json-2.1.0/ext" />
@@ -15934,13 +15920,11 @@
     </library>
     <library name="nio4r (v2.1.0, Remote: ruby-2.4.2-p198) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.1.0" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/nio4r-2.1.0/lib" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/nio4r-2.1.0/tasks" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/nio4r-2.1.0/ext" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.1.0" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/nio4r-2.1.0/lib" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/nio4r-2.1.0/tasks" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/nio4r-2.1.0/ext" />
@@ -16836,13 +16820,11 @@
     </library>
     <library name="pg (v0.20.0, Remote: ruby-2.4.2-p198) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.20.0" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/pg-0.20.0/ext" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/pg-0.20.0/sample" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/pg-0.20.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.20.0" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/pg-0.20.0/ext" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/pg-0.20.0/sample" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/pg-0.20.0/lib" />
@@ -17708,7 +17690,6 @@
     </library>
     <library name="puma (v3.8.2, Remote: ruby-2.4.2-p198) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.8.2" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/puma-3.8.2/bin" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/puma-3.8.2/gemfiles" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/puma-3.8.2/.github" />
@@ -17717,7 +17698,6 @@
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/puma-3.8.2/ext" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.8.2" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/puma-3.8.2/bin" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/puma-3.8.2/gemfiles" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/puma-3.8.2/.github" />
@@ -19462,13 +19442,11 @@
     </library>
     <library name="rb-fsevent (v0.9.8, Remote: ruby-2.4.2-p198) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/rb-fsevent-0.9.8/lib" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/rb-fsevent-0.9.8/bin" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/rb-fsevent-0.9.8/lib" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/rb-fsevent-0.9.8/bin" />
@@ -22302,13 +22280,11 @@
     </library>
     <library name="scout_apm (v2.1.24, Remote: ruby-2.4.2-p198) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/scout_apm/2.1.24" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/scout_apm-2.1.24/data" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/scout_apm-2.1.24/lib" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/scout_apm-2.1.24/ext" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/scout_apm/2.1.24" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/scout_apm-2.1.24/data" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/scout_apm-2.1.24/lib" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/scout_apm-2.1.24/ext" />
@@ -26166,12 +26142,10 @@
     </library>
     <library name="websocket-driver (v0.6.5, Remote: ruby-2.4.2-p198) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/websocket-driver-0.6.5/lib" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/websocket-driver-0.6.5/ext" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/websocket-driver-0.6.5/lib" />
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/websocket-driver-0.6.5/ext" />
       </SOURCES>

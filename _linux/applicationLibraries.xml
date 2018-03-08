@@ -4836,6 +4836,14 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/childprocess-0.6.3/lib" />
       </SOURCES>
     </library>
+    <library name="childprocess (v0.6.3, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/childprocess-0.6.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/childprocess-0.6.3/lib" />
+      </SOURCES>
+    </library>
     <library name="childprocess (v0.8.0, Remote: ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/childprocess-0.8.0/lib" />
@@ -6606,6 +6614,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/database_cleaner-1.6.1/features" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/database_cleaner-1.6.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="database_cleaner (v1.6.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/database_cleaner-1.6.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/database_cleaner-1.6.1/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/database_cleaner-1.6.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/database_cleaner-1.6.1/features" />
       </SOURCES>
     </library>
     <library name="date_validator (v0.7.1, ruby-2.2.1-p85) [gem]">
@@ -16990,6 +17008,14 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/poltergeist-1.15.0/lib" />
       </SOURCES>
     </library>
+    <library name="poltergeist (v1.15.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/poltergeist-1.15.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/poltergeist-1.15.0/lib" />
+      </SOURCES>
+    </library>
     <library name="poltergeist (v1.6.0, ruby-2.2.1-p85) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/gems/poltergeist-1.6.0/lib" />
@@ -20812,6 +20838,16 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rspec-core-3.5.4/exe" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.5.4, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-core-3.5.4/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-core-3.5.4/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-core-3.5.4/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-core-3.5.4/exe" />
+      </SOURCES>
+    </library>
     <library name="rspec-core (v3.7.0, Remote: ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/rspec-core-3.7.0/lib" />
@@ -20922,6 +20958,14 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rspec-expectations-3.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-expectations (v3.5.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-expectations-3.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-expectations-3.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v3.7.0, Remote: ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/rspec-expectations-3.7.0/lib" />
@@ -21026,6 +21070,14 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rspec-mocks-3.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-mocks (v3.5.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-mocks-3.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-mocks-3.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-mocks (v3.7.0, Remote: ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2017.3/system/ruby_stubs/780044974/1322250864/gems/rspec-mocks-3.7.0/lib" />
@@ -21128,6 +21180,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rspec-rails-3.5.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-rails (v3.5.2, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-rails-3.5.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-rails-3.5.2/lib" />
       </SOURCES>
     </library>
     <library name="rspec-rails (v3.7.1, Remote: ruby-2.4.2-p198) [gem]">
@@ -21278,6 +21338,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rspec-support-3.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.5.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-support-3.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-support-3.5.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-support (v3.7.0, Remote: ruby-2.4.2-p198) [gem]">
@@ -22478,6 +22546,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/selenium-webdriver-3.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.4.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/selenium-webdriver-3.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/selenium-webdriver-3.4.0/lib" />
       </SOURCES>
     </library>
     <library name="selenium-webdriver (v3.6.0, ruby-2.4.1-p111) [gem]">
@@ -26128,6 +26204,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/websocket-1.2.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="websocket (v1.2.4, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/websocket-1.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/websocket-1.2.4/lib" />
       </SOURCES>
     </library>
     <library name="websocket-driver (v0.5.3, ruby-2.2.1-p85) [gem]">

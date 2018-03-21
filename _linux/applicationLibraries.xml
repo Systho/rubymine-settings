@@ -13790,6 +13790,18 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/kaminari-1.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="kaminari (v1.1.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/kaminari-1.1.1/gemfiles" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/kaminari-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/kaminari-1.1.1/misc" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/kaminari-1.1.1/gemfiles" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/kaminari-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/kaminari-1.1.1/misc" />
+      </SOURCES>
+    </library>
     <library name="kaminari-actionview (v1.0.1, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/kaminari-actionview-1.0.1/lib" />
@@ -13798,12 +13810,28 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/kaminari-actionview-1.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="kaminari-actionview (v1.1.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/kaminari-actionview-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/kaminari-actionview-1.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="kaminari-activerecord (v1.0.1, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/kaminari-activerecord-1.0.1/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/kaminari-activerecord-1.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="kaminari-activerecord (v1.1.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/kaminari-activerecord-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/kaminari-activerecord-1.1.1/lib" />
       </SOURCES>
     </library>
     <library name="kaminari-core (v1.0.1, ruby-2.3.3-p222) [gem]">
@@ -13816,6 +13844,18 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/kaminari-core-1.0.1/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/kaminari-core-1.0.1/app" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/kaminari-core-1.0.1/config" />
+      </SOURCES>
+    </library>
+    <library name="kaminari-core (v1.1.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/kaminari-core-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/kaminari-core-1.1.1/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/kaminari-core-1.1.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/kaminari-core-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/kaminari-core-1.1.1/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/kaminari-core-1.1.1/config" />
       </SOURCES>
     </library>
     <library name="kgio (v2.10.0, ruby-2.2.1-p85) [gem]">
@@ -25020,6 +25060,18 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/tolk-3.0.0/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/tolk-3.0.0/app" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/tolk-3.0.0/config" />
+      </SOURCES>
+    </library>
+    <library name="tolk (v3.0.2, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/tolk-3.0.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/tolk-3.0.2/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/tolk-3.0.2/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/tolk-3.0.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/tolk-3.0.2/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/tolk-3.0.2/config" />
       </SOURCES>
     </library>
     <library name="tracker_api (v1.6.0, ruby-2.3.3-p222) [gem]">

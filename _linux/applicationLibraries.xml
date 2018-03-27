@@ -7756,6 +7756,16 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/sentry-raven-2.5.2/lib" />
       </SOURCES>
     </library>
+    <library name="sentry-raven (v2.6.3, ruby-2.2.1-p85) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/gems/sentry-raven-2.6.3/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/gems/sentry-raven-2.6.3/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/gems/sentry-raven-2.6.3/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/gems/sentry-raven-2.6.3/exe" />
+      </SOURCES>
+    </library>
     <library name="sentry-raven (v2.6.3, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/sentry-raven-2.6.3/exe" />

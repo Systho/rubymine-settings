@@ -234,6 +234,14 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/activemodel-serializers-xml-1.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="activemodel-serializers-xml (v1.0.2, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/activemodel-serializers-xml-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/activemodel-serializers-xml-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="activerecord (v3.2.22.2, ruby-2.1.10-p492) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.1.10/lib/ruby/gems/2.1.0/gems/activerecord-3.2.22.2/lib" />
@@ -856,6 +864,16 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.7.3/lib" />
       </SOURCES>
     </library>
+    <library name="binding_of_caller (v0.8.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.8.0/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.8.0/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="bini (v0.7.0, ruby-2.1.10-p492) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.1.10/lib/ruby/gems/2.1.0/gems/bini-0.7.0/lib" />
@@ -1084,6 +1102,20 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/capistrano-3.10.0/features" />
       </SOURCES>
     </library>
+    <library name="capistrano (v3.10.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/capistrano-3.10.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/capistrano-3.10.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/capistrano-3.10.1/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/capistrano-3.10.1/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/capistrano-3.10.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/capistrano-3.10.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/capistrano-3.10.1/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/capistrano-3.10.1/features" />
+      </SOURCES>
+    </library>
     <library name="capistrano (v3.4.0, ruby-2.2.1-p85) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/gems/capistrano-3.4.0/bin" />
@@ -1134,6 +1166,14 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/capistrano-bundler-1.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="capistrano-bundler (v1.3.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/capistrano-bundler-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/capistrano-bundler-1.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano-db-tasks (v0.4, ruby-2.2.1-p85) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/gems/capistrano-db-tasks-0.4/lib" />
@@ -1164,6 +1204,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/capistrano-faster-assets-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="capistrano-faster-assets (v1.1.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/capistrano-faster-assets-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/capistrano-faster-assets-1.1.0/lib" />
       </SOURCES>
     </library>
     <library name="capistrano-maintenance (v0.0.1@ab52ad, ruby-2.2.1-p85) [gem]">
@@ -1214,6 +1262,16 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/capistrano-rails-1.2.3/lib" />
       </SOURCES>
     </library>
+    <library name="capistrano-rails (v1.3.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/capistrano-rails-1.3.1/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/capistrano-rails-1.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/capistrano-rails-1.3.1/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/capistrano-rails-1.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano-rbenv (v2.0.3, ruby-2.2.1-p85) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/gems/capistrano-rbenv-2.0.3/lib" />
@@ -1236,6 +1294,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/capistrano-rbenv-2.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="capistrano-rbenv (v2.1.3, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/capistrano-rbenv-2.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/capistrano-rbenv-2.1.3/lib" />
       </SOURCES>
     </library>
     <library name="capistrano-sidekiq (v0.10.0, ruby-2.4.2-p198) [gem]">
@@ -2696,6 +2762,16 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/draper-3.0.0/.github" />
       </SOURCES>
     </library>
+    <library name="draper (v3.0.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/draper-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/draper-3.0.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/draper-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/draper-3.0.1/.github" />
+      </SOURCES>
+    </library>
     <library name="dry-configurable (v0.7.0, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/dry-configurable-0.7.0/lib" />
@@ -3120,6 +3196,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/ffaker-2.7.0/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/ffaker-2.7.0/scripts" />
+      </SOURCES>
+    </library>
+    <library name="ffaker (v2.8.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/ffaker-2.8.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/ffaker-2.8.1/scripts" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/ffaker-2.8.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/ffaker-2.8.1/scripts" />
       </SOURCES>
     </library>
     <library name="ffi (v1.9.10, ruby-2.1.10-p492) [gem]">
@@ -3662,6 +3748,20 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/foundation-rails-5.5.3.2/vendor" />
       </SOURCES>
     </library>
+    <library name="foundation-rails (v6.2.3.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/foundation-rails-6.2.3.0/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/foundation-rails-6.2.3.0/vendor" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/foundation-rails-6.2.3.0/config" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/foundation-rails-6.2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/foundation-rails-6.2.3.0/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/foundation-rails-6.2.3.0/vendor" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/foundation-rails-6.2.3.0/config" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/foundation-rails-6.2.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="foundation_emails (v2.2.1.0, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/foundation_emails-2.2.1.0/vendor" />
@@ -3938,6 +4038,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.1.10/lib/ruby/gems/2.1.0/gems/hashie-3.4.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="hashie (v3.5.7, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/hashie-3.5.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/hashie-3.5.7/lib" />
       </SOURCES>
     </library>
     <library name="heapy (v0.1.2, ruby-2.1.10-p492) [gem]">
@@ -4472,6 +4580,16 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/jbuilder-2.6.3/gemfiles" />
       </SOURCES>
     </library>
+    <library name="jbuilder (v2.7.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/jbuilder-2.7.0/gemfiles" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/jbuilder-2.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/jbuilder-2.7.0/gemfiles" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/jbuilder-2.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="jimson-temp (v0.9.5, ruby-2.1.10-p492) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.1.10/lib/ruby/gems/2.1.0/gems/jimson-temp-0.9.5/lib" />
@@ -4534,6 +4652,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/jquery-rails-4.0.3/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/jquery-rails-4.0.3/vendor" />
+      </SOURCES>
+    </library>
+    <library name="jquery-rails (v4.3.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/jquery-rails-4.3.1/vendor" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/jquery-rails-4.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/jquery-rails-4.3.1/vendor" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/jquery-rails-4.3.1/lib" />
       </SOURCES>
     </library>
     <library name="jquery-ui-rails (v5.0.3, ruby-2.2.1-p85) [gem]">
@@ -5050,6 +5178,14 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/gems/memory_profiler-0.9.6/lib" />
       </SOURCES>
     </library>
+    <library name="method_source (v0.8.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/method_source-0.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/method_source-0.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="method_source (v0.8.2, ruby-2.1.10-p492) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.1.10/lib/ruby/gems/2.1.0/gems/method_source-0.8.2/lib" />
@@ -5512,6 +5648,18 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/nio4r-2.1.0/tasks" />
       </SOURCES>
     </library>
+    <library name="nio4r (v2.2.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/nio4r-2.2.0/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/nio4r-2.2.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/nio4r-2.2.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/nio4r-2.2.0/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/nio4r-2.2.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/nio4r-2.2.0/tasks" />
+      </SOURCES>
+    </library>
     <library name="nokogiri (v1.6.6.2, ruby-2.2.1-p85) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.6.2" />
@@ -5814,6 +5962,18 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/pg-0.20.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/pg-0.20.0/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/pg-0.20.0/sample" />
+      </SOURCES>
+    </library>
+    <library name="pg_search (v2.1.2, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/pg_search-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/pg_search-2.1.2/sql" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/pg_search-2.1.2/.bundle" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/pg_search-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/pg_search-2.1.2/sql" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/pg_search-2.1.2/.bundle" />
       </SOURCES>
     </library>
     <library name="poltergeist (v1.10.0, ruby-2.4.2-p198) [gem]">
@@ -6872,12 +7032,34 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/gems/ref-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="reform (v2.2.4, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/reform-2.2.4/gemfiles" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/reform-2.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/reform-2.2.4/gemfiles" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/reform-2.2.4/lib" />
+      </SOURCES>
+    </library>
     <library name="reform (v2.3.0.rc1, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/reform-2.3.0.rc1/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/reform-2.3.0.rc1/lib" />
+      </SOURCES>
+    </library>
+    <library name="reform-rails (v0.1.7, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/reform-rails-0.1.7/gemfiles" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/reform-rails-0.1.7/log" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/reform-rails-0.1.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/reform-rails-0.1.7/gemfiles" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/reform-rails-0.1.7/log" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/reform-rails-0.1.7/lib" />
       </SOURCES>
     </library>
     <library name="reform-rails (v0.2.0.rc1, ruby-2.4.2-p198) [gem]">
@@ -6928,6 +7110,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/request_store-1.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="request_store (v1.4.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/request_store-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/request_store-1.4.0/lib" />
       </SOURCES>
     </library>
     <library name="responders (v1.1.2, ruby-2.1.10-p492) [gem]">
@@ -7788,6 +7978,18 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/scout_apm-2.1.24/data" />
       </SOURCES>
     </library>
+    <library name="scout_apm (v2.4.9, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/scout_apm-2.4.9/data" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/scout_apm-2.4.9/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/scout_apm-2.4.9/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/scout_apm-2.4.9/data" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/scout_apm-2.4.9/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/scout_apm-2.4.9/ext" />
+      </SOURCES>
+    </library>
     <library name="secure_headers (v3.3.2, ruby-2.1.10-p492) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.1.10/lib/ruby/gems/2.1.0/gems/secure_headers-3.3.2/lib" />
@@ -7826,6 +8028,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/selenium-webdriver-3.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.11.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/selenium-webdriver-3.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/selenium-webdriver-3.11.0/lib" />
       </SOURCES>
     </library>
     <library name="selenium-webdriver (v3.4.0, ruby-2.4.2-p198) [gem]">
@@ -7880,6 +8090,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/sentry-raven-2.6.3/exe" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/sentry-raven-2.6.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="sentry-raven (v2.7.2, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/sentry-raven-2.7.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/sentry-raven-2.7.2/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/sentry-raven-2.7.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/sentry-raven-2.7.2/exe" />
       </SOURCES>
     </library>
     <library name="sequel (v3.20.0, ruby-2.2.1-p85) [gem]">
@@ -8096,6 +8316,18 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/slim-3.0.8/benchmarks" />
       </SOURCES>
     </library>
+    <library name="slim (v3.0.9, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/slim-3.0.9/benchmarks" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/slim-3.0.9/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/slim-3.0.9/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/slim-3.0.9/benchmarks" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/slim-3.0.9/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/slim-3.0.9/bin" />
+      </SOURCES>
+    </library>
     <library name="slim-rails (v3.0.1, ruby-2.1.10-p492) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.1.10/lib/ruby/gems/2.1.0/gems/slim-rails-3.0.1/lib" />
@@ -8294,6 +8526,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/sshkit-1.15.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="sshkit (v1.16.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/sshkit-1.16.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/sshkit-1.16.0/lib" />
       </SOURCES>
     </library>
     <library name="sshkit (v1.7.1, ruby-2.2.1-p85) [gem]">
@@ -8686,6 +8926,18 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/tilt-2.0.7/man" />
       </SOURCES>
     </library>
+    <library name="tilt (v2.0.8, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/tilt-2.0.8/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/tilt-2.0.8/man" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/tilt-2.0.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/tilt-2.0.8/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/tilt-2.0.8/man" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/tilt-2.0.8/lib" />
+      </SOURCES>
+    </library>
     <library name="time_difference (v0.5.0, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/time_difference-0.5.0/lib" />
@@ -8886,6 +9138,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/uglifier-3.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v4.1.7, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/uglifier-4.1.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/uglifier-4.1.7/lib" />
       </SOURCES>
     </library>
     <library name="ultrahook (v0.1.4, ruby-2.1.10-p492) [gem]">

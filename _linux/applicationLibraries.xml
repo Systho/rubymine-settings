@@ -6510,6 +6510,16 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/loofah-2.2.0/benchmark" />
       </SOURCES>
     </library>
+    <library name="loofah (v2.2.2, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/loofah-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/loofah-2.2.2/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/loofah-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/loofah-2.2.2/benchmark" />
+      </SOURCES>
+    </library>
     <library name="mail (v2.6.3, ruby-2.2.1-p85) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/gems/mail-2.6.3/lib" />
@@ -8402,6 +8412,14 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rack-test-0.8.3/lib" />
       </SOURCES>
     </library>
+    <library name="rack-test (v1.0.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rack-test-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rack-test-1.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rails (v4.2.1, ruby-2.2.1-p85) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/gems/rails-4.2.1/guides" />
@@ -8594,6 +8612,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rails-html-sanitizer-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-html-sanitizer (v1.0.4, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rails-html-sanitizer-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rails-html-sanitizer-1.0.4/lib" />
       </SOURCES>
     </library>
     <library name="rails-observers (v0.1.2, ruby-2.2.1-p85) [gem]">
@@ -8822,6 +8848,18 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rake-12.3.0/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rake-12.3.0/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rake-12.3.0/exe" />
+      </SOURCES>
+    </library>
+    <library name="rake (v12.3.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rake-12.3.1/exe" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rake-12.3.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rake-12.3.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rake-12.3.1/exe" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rake-12.3.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rake-12.3.1/bin" />
       </SOURCES>
     </library>
     <library name="ransack (v1.8.2@f7abc0, ruby-2.3.3-p222) [gem]">
@@ -11868,6 +11906,18 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.4.1/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.4.1/package" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.4.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="webpacker (v3.4.3, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.4.3/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.4.3/gemfiles" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.4.3/package" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.4.3/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.4.3/gemfiles" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.4.3/package" />
       </SOURCES>
     </library>
     <library name="websocket (v1.2.1, ruby-2.2.1-p85) [gem]">

@@ -2566,6 +2566,16 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/devise-i18n-0.12.0/lib" />
       </SOURCES>
     </library>
+    <library name="devise_cas_authenticatable (v1.10.3, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/devise_cas_authenticatable-1.10.3/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/devise_cas_authenticatable-1.10.3/app" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/devise_cas_authenticatable-1.10.3/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/devise_cas_authenticatable-1.10.3/app" />
+      </SOURCES>
+    </library>
     <library name="devise_invitable (v1.7.2, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/devise_invitable-1.7.2/lib" />
@@ -6890,6 +6900,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/gems/ruby_parser-3.6.4/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/gems/ruby_parser-3.6.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubycas-client (v2.3.9, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rubycas-client-2.3.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rubycas-client-2.3.9/lib" />
       </SOURCES>
     </library>
     <library name="rubydns (v0.8.5, ruby-2.4.2-p198) [gem]">

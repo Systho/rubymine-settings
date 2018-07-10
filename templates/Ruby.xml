@@ -1,5 +1,5 @@
 <templateSet group="Ruby">
-  <template name="mod" value="module $END$&#10;    $SELECTION$&#10;end" description="Surround with module" toReformat="false" toShortenFQNames="true">
+  <template name="mod" value="module $END$&#10;  $SELECTION$&#10;end" description="Surround with module" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="RUBY" value="true" />
     </context>

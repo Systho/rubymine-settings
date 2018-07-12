@@ -1294,6 +1294,14 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/bundler/gems/maintenance-ab52adf89de1/lib" />
       </SOURCES>
     </library>
+    <library name="capistrano-maintenance (v0.0.1@ab52ad, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/bundler/gems/maintenance-ab52adf89de1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/bundler/gems/maintenance-ab52adf89de1/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano-maintenance (v1.0.0, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/capistrano-maintenance-1.0.0/lib" />
@@ -3752,6 +3760,14 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/gems/i18n-0.7.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="i18n (v0.7.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/i18n-0.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/i18n-0.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="i18n (v0.8.6, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/i18n-0.8.6/lib" />
@@ -4096,6 +4112,14 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/gems/json-1.8.2/tools" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/gems/json-1.8.2/data" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/gems/json-1.8.2/tests" />
+      </SOURCES>
+    </library>
+    <library name="json (v1.8.2, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/json-1.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/json-1.8.2/lib" />
       </SOURCES>
     </library>
     <library name="json (v1.8.6, ruby-2.4.2-p198) [gem]">
@@ -6116,6 +6140,14 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rake/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rake/contrib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rake/ext" />
+      </SOURCES>
+    </library>
+    <library name="rake (v10.4.2, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rake-10.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rake-10.4.2/lib" />
       </SOURCES>
     </library>
     <library name="rake (v12.0.0, ruby-2.4.1-p111) [gem]">

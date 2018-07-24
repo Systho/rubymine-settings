@@ -686,6 +686,14 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/ast-2.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="ast (v2.4.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/ast-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/ast-2.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="audited (v4.0.0, ruby-2.2.1-p85) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/gems/audited-4.0.0/gemfiles" />
@@ -2968,6 +2976,14 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/eventmachine-1.0.9.1/lib" />
       </SOURCES>
     </library>
+    <library name="eventmachine (v1.2.7, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.7/lib" />
+      </SOURCES>
+    </library>
     <library name="excon (v0.57.1, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/excon-0.57.1/lib" />
@@ -3970,6 +3986,14 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/gems/iso8601-0.8.5/lib" />
       </SOURCES>
     </library>
+    <library name="jaro_winkler (v1.5.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/jaro_winkler-1.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/jaro_winkler-1.5.1/lib" />
+      </SOURCES>
+    </library>
     <library name="jbuilder (v2.6.3, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/jbuilder-2.6.3/lib" />
@@ -4284,6 +4308,14 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/gems/kgio-2.10.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/gems/kgio-2.10.0/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/gems/kgio-2.10.0/archive" />
+      </SOURCES>
+    </library>
+    <library name="kramdown (v1.17.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/kramdown-1.17.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/kramdown-1.17.0/lib" />
       </SOURCES>
     </library>
     <library name="launchy (v2.4.2, ruby-2.2.1-p85) [gem]">
@@ -5296,12 +5328,28 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/parallel-1.12.0/lib" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.12.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/parallel-1.12.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/parallel-1.12.1/lib" />
+      </SOURCES>
+    </library>
     <library name="parser (v2.4.0.0, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/parser-2.4.0.0/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/parser-2.4.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.5.1.2, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/parser-2.5.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/parser-2.5.1.2/lib" />
       </SOURCES>
     </library>
     <library name="pg (v0.18.1, ruby-2.2.1-p85) [gem]">
@@ -5444,6 +5492,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/powerpack-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="powerpack (v0.1.2, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/powerpack-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/powerpack-0.1.2/lib" />
       </SOURCES>
     </library>
     <library name="premailer (v1.11.1, ruby-2.4.2-p198) [gem]">
@@ -6114,6 +6170,14 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rainbow-2.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="rainbow (v3.0.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rainbow-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rainbow-3.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="raindrops (v0.15.0, ruby-2.2.1-p85) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/raindrops/0.15.0" />
@@ -6536,6 +6600,14 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/retriable-3.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="reverse_markdown (v1.1.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/reverse_markdown-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/reverse_markdown-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rolify (v5.1.0, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rolify-5.1.0/lib" />
@@ -6856,6 +6928,14 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rubocop-0.51.0/lib" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.58.2, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rubocop-0.58.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rubocop-0.58.2/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby-debug-ide (v0.6.1, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1/lib" />
@@ -7010,6 +7090,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/ruby-progressbar-1.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.9.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/ruby-progressbar-1.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/ruby-progressbar-1.9.0/lib" />
       </SOURCES>
     </library>
     <library name="ruby_dep (v1.5.0, ruby-2.4.1-p111) [gem]">
@@ -7660,6 +7748,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/slop-3.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="solargraph (v0.23.5, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/solargraph-0.23.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/solargraph-0.23.5/lib" />
       </SOURCES>
     </library>
     <library name="sort_alphabetical (v1.1.0, ruby-2.4.1-p111) [gem]">
@@ -8378,6 +8474,14 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/unicode-display_width-1.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="unicode-display_width (v1.4.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/unicode-display_width-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/unicode-display_width-1.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="unicode_utils (v1.4.0, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/unicode_utils-1.4.0/lib" />
@@ -8756,6 +8860,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/xpath-3.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="yard (v0.9.15, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/yard-0.9.15/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/yard-0.9.15/lib" />
       </SOURCES>
     </library>
     <library name="zip-zip (v0.3, ruby-2.4.2-p198) [gem]">

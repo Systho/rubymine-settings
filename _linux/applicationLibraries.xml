@@ -4903,6 +4903,24 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/devise_invitable-1.7.2/config" />
       </excluded>
     </library>
+    <library name="devise_invitable (v1.7.4, ruby-2.4.1-p111) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/devise_invitable-1.7.4/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/devise_invitable-1.7.4/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/devise_invitable-1.7.4/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/devise_invitable-1.7.4/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/devise_invitable-1.7.4/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/devise_invitable-1.7.4/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/devise_invitable-1.7.4/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/devise_invitable-1.7.4/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/devise_invitable-1.7.4/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/devise_invitable-1.7.4/config" />
+      </excluded>
+    </library>
     <library name="did_you_mean (v1.1.0, ruby-2.4.1-p111) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/doc" />

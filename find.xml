@@ -14,7 +14,8 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*_form.rb</mask>
     <mask>*.rb</mask>
+    <mask>*_form.rb</mask>
+    <mask>*controller.rb</mask>
   </component>
 </application>

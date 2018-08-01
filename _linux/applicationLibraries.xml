@@ -592,6 +592,22 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/activerecord-5.1.5/examples" />
       </excluded>
     </library>
+    <library name="activerecord-redshift-adapter (v0.3.0@24ee24, ruby-2.4.1-p111) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/activerecord-redshift-adapter-24ee2419126c/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/activerecord-redshift-adapter-24ee2419126c/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/activerecord-redshift-adapter-24ee2419126c/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/activerecord-redshift-adapter-24ee2419126c/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/activerecord-redshift-adapter-24ee2419126c/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/activerecord-redshift-adapter-24ee2419126c/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/activerecord-redshift-adapter-24ee2419126c/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/activerecord-redshift-adapter-24ee2419126c/test" />
+      </excluded>
+    </library>
     <library name="activerecord-typedstore (v1.1.1, ruby-2.4.1-p111) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/activerecord-typedstore-1.1.1/lib" />

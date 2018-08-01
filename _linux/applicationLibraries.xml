@@ -8639,6 +8639,35 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/gems/kgio-2.10.0/archive" />
       </SOURCES>
     </library>
+    <library name="kiba (v2.0.0, ruby-2.4.1-p111) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/kiba-2.0.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/kiba-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/kiba-2.0.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/kiba-2.0.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/kiba-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/kiba-2.0.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/kiba-2.0.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/kiba-2.0.0/test" />
+      </excluded>
+    </library>
+    <library name="kiba-common (v0.8.0, ruby-2.4.1-p111) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/kiba-common-0.8.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/kiba-common-0.8.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/kiba-common-0.8.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/kiba-common-0.8.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/kiba-common-0.8.0/test" />
+      </excluded>
+    </library>
     <library name="launchy (v2.4.2, ruby-2.2.1-p85) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/gems/launchy-2.4.2/tasks" />

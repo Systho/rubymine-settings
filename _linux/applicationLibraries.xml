@@ -11063,6 +11063,38 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/graphql-1.7.7/spec" />
       </excluded>
     </library>
+    <library name="graphql (v1.8.9, asdf: 2.4.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/graphql-1.8.9/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/graphql-1.8.9/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/graphql-1.8.9/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/graphql-1.8.9/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/graphql-1.8.9/spec" />
+      </excluded>
+    </library>
+    <library name="graphql (v1.8.9, ruby-2.4.2-p198) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/graphql-1.8.9/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/graphql-1.8.9/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/graphql-1.8.9/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/graphql-1.8.9/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/graphql-1.8.9/spec" />
+      </excluded>
+    </library>
     <library name="graphql-errors (v0.2.0, asdf: 2.4.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />

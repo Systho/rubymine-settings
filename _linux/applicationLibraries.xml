@@ -13,7 +13,7 @@
     </library>
     <library name="actioncable (v5.1.4, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/actioncable-5.1.4/lib" />
@@ -79,7 +79,7 @@
     </library>
     <library name="actionmailer (v5.1.4, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/actionmailer-5.1.4/lib" />
@@ -145,7 +145,7 @@
     </library>
     <library name="actionpack (v5.1.4, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/actionpack-5.1.4/lib" />
@@ -211,7 +211,7 @@
     </library>
     <library name="actionview (v5.1.4, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/actionview-5.1.4/lib" />
@@ -244,7 +244,7 @@
     </library>
     <library name="active_link_to (v1.0.5, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/active_link_to-1.0.5/lib" />
@@ -279,7 +279,7 @@
     </library>
     <library name="active_model_serializers (v0.10.7, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/active_model_serializers-0.10.7/bin" />
@@ -459,7 +459,7 @@
     </library>
     <library name="activejob (v5.1.4, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/activejob-5.1.4/lib" />
@@ -525,7 +525,7 @@
     </library>
     <library name="activemodel (v5.1.4, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.4/lib" />
@@ -569,7 +569,7 @@
     </library>
     <library name="activemodel-serializers-xml (v1.0.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-serializers-xml-1.0.2/lib" />
@@ -639,7 +639,7 @@
     </library>
     <library name="activerecord (v5.1.4, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/activerecord-5.1.4/lib" />
@@ -687,7 +687,7 @@
     </library>
     <library name="activerecord-redshift-adapter (v0.3.0@24ee24, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/activerecord-redshift-adapter-24ee2419126c/lib" />
@@ -706,7 +706,7 @@
     </library>
     <library name="activerecord-typedstore (v1.1.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/activerecord-typedstore-1.1.1/lib" />
@@ -725,7 +725,7 @@
     </library>
     <library name="activerecord-typedstore (v1.1.3, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/activerecord-typedstore-1.1.3/lib" />
@@ -788,7 +788,7 @@
     </library>
     <library name="activesupport (v5.1.4, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.1.4/lib" />
@@ -906,7 +906,7 @@
     </library>
     <library name="addressable (v2.5.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/addressable-2.5.2/lib" />
@@ -1015,7 +1015,7 @@
     </library>
     <library name="airbrussh (v1.3.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/airbrussh-1.3.0/bin" />
@@ -1124,7 +1124,7 @@
     </library>
     <library name="annotate (v2.7.3, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/annotate-2.7.3/bin" />
@@ -1264,7 +1264,7 @@
     </library>
     <library name="arel (v8.0.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/arel-8.0.0/lib" />
@@ -1334,7 +1334,7 @@
     </library>
     <library name="ast (v2.3.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/ast-2.3.0/lib" />
@@ -1453,7 +1453,7 @@
     </library>
     <library name="awesome_print (v1.8.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/awesome_print-1.8.0/lib" />
@@ -1589,7 +1589,7 @@
     </library>
     <library name="babel-source (v5.8.35, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/babel-source-5.8.35/lib" />
@@ -1611,7 +1611,7 @@
     </library>
     <library name="babel-transpiler (v0.7.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/babel-transpiler-0.7.0/lib" />
@@ -1671,14 +1671,16 @@
     </library>
     <library name="bcrypt (v3.1.11, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/bcrypt-3.1.11/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/bcrypt-3.1.11/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/bcrypt-3.1.11/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/bcrypt-3.1.11/spec" />
@@ -1759,7 +1761,7 @@
     </library>
     <library name="better_errors (v2.3.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/better_errors-2.3.0/lib" />
@@ -1808,7 +1810,7 @@
     </library>
     <library name="bigdecimal (v1.3.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES />
       <SOURCES />
@@ -1865,15 +1867,17 @@
     </library>
     <library name="binding_of_caller (v0.7.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.7.2/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.7.2/test" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.7.2/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.7.2/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.7.2/test" />
@@ -2053,7 +2057,7 @@
     </library>
     <library name="builder (v3.2.3, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/builder-3.2.3/doc" />
@@ -2164,6 +2168,25 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/man" />
       </excluded>
     </library>
+    <library name="bundler (v1.16.1, ruby-2.4.1-p111) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/bundler-1.16.1/exe" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/bundler-1.16.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/bundler-1.16.1/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/bundler-1.16.1/exe" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/bundler-1.16.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/bundler-1.16.1/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/bundler-1.16.1/exe" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/bundler-1.16.1/man" />
+      </excluded>
+    </library>
     <library name="by_star (v2.2.1@1807d9, ruby-2.4.2-p198) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -2228,7 +2251,7 @@
     </library>
     <library name="byebug (v9.1.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/byebug-9.1.0/bin" />
@@ -2301,7 +2324,7 @@
     </library>
     <library name="capistrano (v3.10.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/capistrano-3.10.0/bin" />
@@ -2451,7 +2474,7 @@
     </library>
     <library name="capistrano-bundler (v1.3.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/capistrano-bundler-1.3.0/lib" />
@@ -2505,7 +2528,7 @@
     </library>
     <library name="capistrano-db-tasks (v0.6, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/capistrano-db-tasks-0.6/lib" />
@@ -2548,7 +2571,7 @@
     </library>
     <library name="capistrano-faster-assets (v1.1.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/capistrano-faster-assets-1.1.0/lib" />
@@ -2613,7 +2636,7 @@
     </library>
     <library name="capistrano-maintenance (v1.2.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/capistrano-maintenance-1.2.0/lib" />
@@ -2668,7 +2691,7 @@
     </library>
     <library name="capistrano-rails (v1.3.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/capistrano-rails-1.3.0/lib" />
@@ -2728,7 +2751,7 @@
     </library>
     <library name="capistrano-rbenv (v2.1.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/capistrano-rbenv-2.1.2/lib" />
@@ -2761,7 +2784,7 @@
     </library>
     <library name="capistrano-sidekiq (v0.20.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/capistrano-sidekiq-0.20.0/lib" />
@@ -2827,7 +2850,7 @@
     </library>
     <library name="capistrano3-puma (v3.1.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/capistrano3-puma-3.1.1/lib" />
@@ -2903,7 +2926,7 @@
     </library>
     <library name="capybara (v2.15.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/capybara-2.15.1/lib" />
@@ -2995,7 +3018,7 @@
     </library>
     <library name="capybara-screenshot (v1.0.18, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/capybara-screenshot-1.0.18/lib" />
@@ -3085,7 +3108,7 @@
     </library>
     <library name="carrierwave (v1.2.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/carrierwave-1.2.1/lib" />
@@ -3118,7 +3141,7 @@
     </library>
     <library name="case_transform (v0.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/case_transform-0.2/lib" />
@@ -3188,7 +3211,7 @@
     </library>
     <library name="childprocess (v0.7.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/childprocess-0.7.1/lib" />
@@ -3422,7 +3445,7 @@
     </library>
     <library name="cocoon (v1.2.11, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/cocoon-1.2.11/app" />
@@ -3563,7 +3586,7 @@
     </library>
     <library name="coderay (v1.1.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/coderay-1.1.1/bin" />
@@ -3685,7 +3708,7 @@
     </library>
     <library name="coffee-rails (v4.2.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/coffee-rails-4.2.2/lib" />
@@ -3718,7 +3741,7 @@
     </library>
     <library name="coffee-script (v2.4.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/coffee-script-2.4.1/lib" />
@@ -3740,7 +3763,7 @@
     </library>
     <library name="coffee-script-source (v1.12.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/coffee-script-source-1.12.2/lib" />
@@ -3916,7 +3939,7 @@
     </library>
     <library name="concurrent-ruby (v1.0.5, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/concurrent-ruby-1.0.5/lib" />
@@ -3938,7 +3961,7 @@
     </library>
     <library name="connection_pool (v2.2.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/connection_pool-2.2.1/lib" />
@@ -3970,7 +3993,7 @@
     </library>
     <library name="copy_carrierwave_file (v1.3.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/copy_carrierwave_file-1.3.0/lib" />
@@ -4002,7 +4025,7 @@
     </library>
     <library name="countries (v2.1.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/countries-2.1.2/bin" />
@@ -4021,7 +4044,7 @@
     </library>
     <library name="country_select (v3.1.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/country_select-3.1.1/lib" />
@@ -4094,7 +4117,7 @@
     </library>
     <library name="crass (v1.0.3, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/crass-1.0.3/lib" />
@@ -4126,7 +4149,7 @@
     </library>
     <library name="crass (v1.0.4, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/crass-1.0.4/lib" />
@@ -4206,7 +4229,7 @@
     </library>
     <library name="dante (v0.2.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/dante-0.2.0/lib" />
@@ -4264,7 +4287,7 @@
     </library>
     <library name="database_cleaner (v1.6.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/database_cleaner-1.6.1/lib" />
@@ -4363,6 +4386,25 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.1/test" />
       </excluded>
     </library>
+    <library name="debase (v0.2.2, ruby-2.4.1-p111) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2/test" />
+      </excluded>
+    </library>
     <library name="debase (v0.2.2, ruby-2.4.2-p198) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -4422,7 +4464,7 @@
     </library>
     <library name="debase (v0.2.2.beta10, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/ext" />
@@ -4460,7 +4502,7 @@
     </library>
     <library name="debase (v0.2.2.beta11, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta11/ext" />
@@ -4498,7 +4540,7 @@
     </library>
     <library name="debase (v0.2.2.beta14, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/ext" />
@@ -4555,7 +4597,7 @@
     </library>
     <library name="debase (v0.2.2.beta9, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/ext" />
@@ -4593,7 +4635,7 @@
     </library>
     <library name="debase (v0.2.3.beta2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/ext" />
@@ -4675,7 +4717,7 @@
     </library>
     <library name="debase-ruby_core_source (v0.9.9, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-ruby_core_source-0.9.9/lib" />
@@ -4729,14 +4771,16 @@
     </library>
     <library name="debug_inspector (v0.0.3, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/debug_inspector-0.0.3/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/debug_inspector-0.0.3/test" />
@@ -4769,7 +4813,7 @@
     </library>
     <library name="declarative (v0.0.10, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/declarative-0.0.10/lib" />
@@ -4801,7 +4845,7 @@
     </library>
     <library name="declarative-builder (v0.1.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/declarative-builder-0.1.0/lib" />
@@ -4833,7 +4877,7 @@
     </library>
     <library name="declarative-option (v0.1.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/declarative-option-0.1.0/lib" />
@@ -5034,7 +5078,7 @@
     </library>
     <library name="devise (v4.3.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/devise-4.3.0/app" />
@@ -5155,7 +5199,7 @@
     </library>
     <library name="devise_invitable (v1.7.4, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/devise_invitable-1.7.4/app" />
@@ -5176,7 +5220,7 @@
     </library>
     <library name="did_you_mean (v1.1.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/doc" />
@@ -5276,7 +5320,7 @@
     </library>
     <library name="diff-lcs (v1.3, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/diff-lcs-1.3/bin" />
@@ -5326,7 +5370,7 @@
     </library>
     <library name="disposable (v0.4.3, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/disposable-0.4.3/lib" />
@@ -5364,7 +5408,7 @@
     </library>
     <library name="docile (v1.1.5, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/docile-1.1.5/lib" />
@@ -5418,7 +5462,7 @@
     </library>
     <library name="domain_name (v0.5.20180417, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/domain_name-0.5.20180417/lib" />
@@ -5494,7 +5538,7 @@
     </library>
     <library name="draper (v3.0.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/draper-3.0.1/lib" />
@@ -5601,6 +5645,17 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/dry-core-0.4.4/lib" />
       </SOURCES>
     </library>
+    <library name="dry-core (v0.4.7, ruby-2.4.1-p111) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/dry-core-0.4.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/dry-core-0.4.7/lib" />
+      </SOURCES>
+    </library>
     <library name="dry-equalizer (v0.2.0, ruby-2.4.2-p198) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -5615,6 +5670,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/dry-equalizer-0.2.0/spec" />
+      </excluded>
+    </library>
+    <library name="dry-equalizer (v0.2.1, ruby-2.4.1-p111) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/dry-equalizer-0.2.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/dry-equalizer-0.2.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/dry-equalizer-0.2.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/dry-equalizer-0.2.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/dry-equalizer-0.2.1/spec" />
       </excluded>
     </library>
     <library name="dry-logic (v0.4.2, ruby-2.4.2-p198) [gem]" type="rubylib">
@@ -5634,6 +5705,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/dry-logic-0.4.2/spec" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/dry-logic-0.4.2/examples" />
+      </excluded>
+    </library>
+    <library name="dry-monads (v1.0.1, ruby-2.4.1-p111) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/dry-monads-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/dry-monads-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/dry-monads-1.0.1/log" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/dry-monads-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/dry-monads-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/dry-monads-1.0.1/log" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/dry-monads-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/dry-monads-1.0.1/log" />
       </excluded>
     </library>
     <library name="dry-struct (v0.4.0, ruby-2.4.2-p198) [gem]" type="rubylib">
@@ -5833,7 +5923,7 @@
     </library>
     <library name="erubi (v1.7.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/erubi-1.7.0/lib" />
@@ -5865,7 +5955,7 @@
     </library>
     <library name="erubi (v1.7.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/erubi-1.7.1/lib" />
@@ -6014,7 +6104,7 @@
     </library>
     <library name="eu_central_bank (v1.3.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/eu_central_bank-1.3.0/lib" />
@@ -6112,7 +6202,7 @@
     </library>
     <library name="excon (v0.62.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/excon-0.62.0/lib" />
@@ -6148,7 +6238,7 @@
     </library>
     <library name="execjs (v2.7.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/execjs-2.7.0/lib" />
@@ -6195,7 +6285,7 @@
     </library>
     <library name="factory_bot (v4.8.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/factory_bot-4.8.2/lib" />
@@ -6227,7 +6317,7 @@
     </library>
     <library name="factory_bot_rails (v4.8.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/factory_bot_rails-4.8.2/bin" />
@@ -6364,7 +6454,7 @@
     </library>
     <library name="faraday (v0.12.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/faraday-0.12.2/lib" />
@@ -6506,9 +6596,10 @@
     </library>
     <library name="ffi (v1.9.18, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/lib" />
@@ -6516,6 +6607,7 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/libtest" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/lib" />
@@ -6706,7 +6798,7 @@
     </library>
     <library name="fog-core (v2.1.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/fog-core-2.1.0/lib" />
@@ -6722,7 +6814,7 @@
     </library>
     <library name="fog-google (v1.3.3@d86623, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/fog-google-d8662399f5e8/ci" />
@@ -6769,7 +6861,7 @@
     </library>
     <library name="fog-json (v1.1.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/fog-json-1.1.0/lib" />
@@ -6804,7 +6896,7 @@
     </library>
     <library name="fog-xml (v0.1.3, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/fog-xml-0.1.3/lib" />
@@ -6892,7 +6984,7 @@
     </library>
     <library name="formatador (v0.2.5, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/formatador-0.2.5/lib" />
@@ -7085,7 +7177,7 @@
     </library>
     <library name="globalid (v0.4.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/globalid-0.4.1/lib" />
@@ -7195,7 +7287,7 @@
     </library>
     <library name="goldiloader (v2.0.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/goldiloader-2.0.1/lib" />
@@ -7217,7 +7309,7 @@
     </library>
     <library name="google-api-client (v0.19.8, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/google-api-client-0.19.8/bin" />
@@ -7241,7 +7333,7 @@
     </library>
     <library name="googleauth (v0.6.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/googleauth-0.6.2/lib" />
@@ -7278,7 +7370,7 @@
     </library>
     <library name="graphiql-rails (v1.4.7, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/graphiql-rails-1.4.7/app" />
@@ -7331,7 +7423,7 @@
     </library>
     <library name="graphql (v1.7.4, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/graphql-1.7.4/lib" />
@@ -7363,7 +7455,7 @@
     </library>
     <library name="graphql (v1.8.10, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/graphql-1.8.10/lib" />
@@ -7548,7 +7640,7 @@
     </library>
     <library name="hashie (v3.5.6, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/hashie-3.5.6/lib" />
@@ -7564,7 +7656,7 @@
     </library>
     <library name="hashie (v3.5.7, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/hashie-3.5.7/lib" />
@@ -7612,7 +7704,7 @@
     </library>
     <library name="high_voltage (v3.0.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/high_voltage-3.0.0/app" />
@@ -7674,7 +7766,7 @@
     </library>
     <library name="highline (v1.7.8, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/highline-1.7.8/doc" />
@@ -7792,7 +7884,7 @@
     </library>
     <library name="http-cookie (v1.0.3, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/http-cookie-1.0.3/lib" />
@@ -7842,7 +7934,7 @@
     </library>
     <library name="httpclient (v2.8.3, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/httpclient-2.8.3/bin" />
@@ -7902,7 +7994,7 @@
     </library>
     <library name="i18n (v0.8.6, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/i18n-0.8.6/lib" />
@@ -8039,7 +8131,7 @@
     </library>
     <library name="i18n-js (v3.0.4, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/i18n-js-3.0.4/app" />
@@ -8060,7 +8152,7 @@
     </library>
     <library name="i18n_data (v0.8.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/i18n_data-0.8.0/lib" />
@@ -8316,7 +8408,7 @@
     </library>
     <library name="io-console (v0.4.6, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES />
       <SOURCES />
@@ -8560,7 +8652,7 @@
     </library>
     <library name="js-routes (v1.4.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/js-routes-1.4.2/app" />
@@ -8684,7 +8776,7 @@
     </library>
     <library name="json (v2.0.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/2.4.0/json/add" />
@@ -8712,9 +8804,10 @@
     </library>
     <library name="json (v2.1.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.1.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/json-2.1.0/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/json-2.1.0/data" />
@@ -8725,6 +8818,7 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/json-2.1.0/references" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.1.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/json-2.1.0/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/json-2.1.0/data" />
@@ -8780,7 +8874,7 @@
     </library>
     <library name="jsonapi-renderer (v0.2.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/jsonapi-renderer-0.2.0/lib" />
@@ -8818,7 +8912,7 @@
     </library>
     <library name="jwt (v1.5.6, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/jwt-1.5.6/lib" />
@@ -8874,7 +8968,7 @@
     </library>
     <library name="kaminari (v1.1.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/kaminari-1.1.1/lib" />
@@ -8912,7 +9006,7 @@
     </library>
     <library name="kaminari-actionview (v1.1.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/kaminari-actionview-1.1.1/lib" />
@@ -8934,7 +9028,7 @@
     </library>
     <library name="kaminari-activerecord (v1.1.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/kaminari-activerecord-1.1.1/lib" />
@@ -8956,7 +9050,7 @@
     </library>
     <library name="kaminari-core (v1.1.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/kaminari-core-1.1.1/app" />
@@ -9014,7 +9108,7 @@
     </library>
     <library name="kiba (v2.0.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/kiba-2.0.0/bin" />
@@ -9033,7 +9127,7 @@
     </library>
     <library name="kiba-common (v0.8.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/kiba-common-0.8.0/lib" />
@@ -9102,7 +9196,7 @@
     </library>
     <library name="launchy (v2.4.3, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/launchy-2.4.3/bin" />
@@ -9236,7 +9330,7 @@
     </library>
     <library name="listen (v3.1.5, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/listen-3.1.5/bin" />
@@ -9268,7 +9362,7 @@
     </library>
     <library name="little-plugger (v1.1.4, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/little-plugger-1.1.4/lib" />
@@ -9303,7 +9397,7 @@
     </library>
     <library name="logging (v2.2.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/logging-2.2.2/lib" />
@@ -9363,7 +9457,7 @@
     </library>
     <library name="loofah (v2.1.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/loofah-2.1.1/lib" />
@@ -9420,7 +9514,7 @@
     </library>
     <library name="loofah (v2.2.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/loofah-2.2.2/lib" />
@@ -9485,7 +9579,7 @@
     </library>
     <library name="mail (v2.6.6, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/mail-2.6.6/lib" />
@@ -9577,7 +9671,7 @@
     </library>
     <library name="memoist (v0.16.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/memoist-0.16.0/lib" />
@@ -9623,7 +9717,7 @@
     </library>
     <library name="method_source (v0.9.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/method_source-0.9.0/lib" />
@@ -9680,7 +9774,7 @@
     </library>
     <library name="mime-types (v3.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/mime-types-3.1/lib" />
@@ -9712,7 +9806,7 @@
     </library>
     <library name="mime-types-data (v3.2016.0521, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/mime-types-data-3.2016.0521/lib" />
@@ -9766,7 +9860,7 @@
     </library>
     <library name="mini_magick (v4.8.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/mini_magick-4.8.0/lib" />
@@ -9788,7 +9882,7 @@
     </library>
     <library name="mini_mime (v0.1.4, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/mini_mime-0.1.4/bin" />
@@ -9880,7 +9974,7 @@
     </library>
     <library name="mini_portile2 (v2.3.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/mini_portile2-2.3.0/lib" />
@@ -9925,7 +10019,7 @@
     </library>
     <library name="minitest (v5.10.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/minitest-5.10.1/lib" />
@@ -9989,7 +10083,7 @@
     </library>
     <library name="minitest (v5.11.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/minitest-5.11.1/lib" />
@@ -10013,7 +10107,7 @@
     </library>
     <library name="minitest (v5.11.3, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/minitest-5.11.3/lib" />
@@ -10108,7 +10202,7 @@
     </library>
     <library name="monetize (v1.7.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/monetize-1.7.0/lib" />
@@ -10124,7 +10218,7 @@
     </library>
     <library name="money (v6.11.3, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/money-6.11.3/lib" />
@@ -10143,7 +10237,7 @@
     </library>
     <library name="money (v6.9.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/money-6.9.0/lib" />
@@ -10162,7 +10256,7 @@
     </library>
     <library name="money-rails (v1.11.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/money-rails-1.11.0/lib" />
@@ -10181,7 +10275,7 @@
     </library>
     <library name="money-rails (v1.9.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/money-rails-1.9.0/lib" />
@@ -10222,7 +10316,7 @@
     </library>
     <library name="multi_json (v1.12.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/multi_json-1.12.2/lib" />
@@ -10244,7 +10338,7 @@
     </library>
     <library name="multi_json (v1.13.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/multi_json-1.13.1/lib" />
@@ -10282,7 +10376,7 @@
     </library>
     <library name="multi_xml (v0.6.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/multi_xml-0.6.0/lib" />
@@ -10320,7 +10414,7 @@
     </library>
     <library name="multipart-post (v2.0.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/multipart-post-2.0.0/lib" />
@@ -10386,7 +10480,7 @@
     </library>
     <library name="net-scp (v1.2.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/net-scp-1.2.1/lib" />
@@ -10453,7 +10547,7 @@
     </library>
     <library name="net-ssh (v4.2.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/net-ssh-4.2.0/lib" />
@@ -10485,7 +10579,7 @@
     </library>
     <library name="net-telnet (v0.1.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/net-telnet-0.1.1/bin" />
@@ -10517,7 +10611,7 @@
     </library>
     <library name="netrc (v0.11.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/netrc-0.11.0/lib" />
@@ -10669,9 +10763,10 @@
     </library>
     <library name="nio4r (v2.1.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.1.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nio4r-2.1.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nio4r-2.1.0/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nio4r-2.1.0/spec" />
@@ -10679,6 +10774,7 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nio4r-2.1.0/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.1.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nio4r-2.1.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nio4r-2.1.0/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nio4r-2.1.0/spec" />
@@ -10772,6 +10868,37 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.6.2/suppressions" />
       </excluded>
     </library>
+    <library name="nokogiri (v1.8.1, ruby-2.4.1-p111) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/tasks" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/patches" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/tasks" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/patches" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/suppressions" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/tasks" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/patches" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/suppressions" />
+      </excluded>
+    </library>
     <library name="nokogiri (v1.8.1, ruby-2.4.2-p198) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -10805,9 +10932,10 @@
     </library>
     <library name="nokogiri (v1.8.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.2" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/lib" />
@@ -10817,6 +10945,7 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.2" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/lib" />
@@ -10935,7 +11064,7 @@
     </library>
     <library name="oauth2 (v1.4.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/oauth2-1.4.0/lib" />
@@ -11011,7 +11140,7 @@
     </library>
     <library name="omniauth (v1.7.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/omniauth-1.7.1/lib" />
@@ -11027,7 +11156,7 @@
     </library>
     <library name="omniauth (v1.8.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/omniauth-1.8.1/lib" />
@@ -11078,7 +11207,7 @@
     </library>
     <library name="omniauth-google-oauth2 (v0.5.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/omniauth-google-oauth2-0.5.2/lib" />
@@ -11132,7 +11261,7 @@
     </library>
     <library name="omniauth-oauth2 (v1.3.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/omniauth-oauth2-1.3.1/lib" />
@@ -11148,7 +11277,7 @@
     </library>
     <library name="omniauth-oauth2 (v1.4.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/omniauth-oauth2-1.4.0/lib" />
@@ -11202,7 +11331,7 @@
     </library>
     <library name="openssl (v2.0.3, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES />
       <SOURCES />
@@ -11235,7 +11364,7 @@
     </library>
     <library name="orm_adapter (v0.5.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/orm_adapter-0.5.0/lib" />
@@ -11273,7 +11402,7 @@
     </library>
     <library name="os (v0.9.6, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/os-0.9.6/lib" />
@@ -11292,7 +11421,7 @@
     </library>
     <library name="parallel (v1.12.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/parallel-1.12.0/lib" />
@@ -11303,7 +11432,7 @@
     </library>
     <library name="parallel (v1.12.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/parallel-1.12.1/lib" />
@@ -11325,7 +11454,7 @@
     </library>
     <library name="parser (v2.4.0.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/parser-2.4.0.0/bin" />
@@ -11448,14 +11577,16 @@
     </library>
     <library name="pg (v0.21.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.21.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/pg-0.21.0/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/pg-0.21.0/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.21.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/pg-0.21.0/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/pg-0.21.0/spec" />
@@ -11486,7 +11617,7 @@
     </library>
     <library name="pg_search (v2.1.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/pg_search-2.1.1/lib" />
@@ -11622,7 +11753,7 @@
     </library>
     <library name="power_assert (v0.4.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/power_assert-0.4.1/lib" />
@@ -11660,7 +11791,7 @@
     </library>
     <library name="powerpack (v0.1.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/powerpack-0.1.1/lib" />
@@ -11852,7 +11983,7 @@
     </library>
     <library name="psych (v2.2.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/2.4.0/psych/json" />
@@ -11917,7 +12048,7 @@
     </library>
     <library name="public_suffix (v3.0.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/public_suffix-3.0.0/bin" />
@@ -12052,9 +12183,10 @@
     </library>
     <library name="puma (v3.10.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.10.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/puma-3.10.0/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/puma-3.10.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/puma-3.10.0/lib" />
@@ -12062,6 +12194,7 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/puma-3.10.0/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.10.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/puma-3.10.0/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/puma-3.10.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/puma-3.10.0/lib" />
@@ -12217,7 +12350,7 @@
     </library>
     <library name="pundit (v1.1.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/pundit-1.1.0/lib" />
@@ -12331,7 +12464,7 @@
     </library>
     <library name="rack (v2.0.3, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rack-2.0.3/bin" />
@@ -12406,7 +12539,7 @@
     </library>
     <library name="rack (v2.0.5, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rack-2.0.5/bin" />
@@ -12472,7 +12605,7 @@
     </library>
     <library name="rack-protection (v2.0.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rack-protection-2.0.0/lib" />
@@ -12521,7 +12654,7 @@
     </library>
     <library name="rack-proxy (v0.6.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rack-proxy-0.6.2/lib" />
@@ -12553,7 +12686,7 @@
     </library>
     <library name="rack-proxy (v0.6.4, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rack-proxy-0.6.4/lib" />
@@ -12628,7 +12761,7 @@
     </library>
     <library name="rack-test (v0.8.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rack-test-0.8.2/lib" />
@@ -12661,7 +12794,7 @@
     </library>
     <library name="rack-test (v1.0.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rack-test-1.0.0/lib" />
@@ -12764,7 +12897,7 @@
     </library>
     <library name="rails (v5.1.4, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES />
       <SOURCES />
@@ -12895,7 +13028,7 @@
     </library>
     <library name="rails-dom-testing (v2.0.3, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rails-dom-testing-2.0.3/lib" />
@@ -12978,7 +13111,7 @@
     </library>
     <library name="rails-html-sanitizer (v1.0.3, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rails-html-sanitizer-1.0.3/lib" />
@@ -13010,7 +13143,7 @@
     </library>
     <library name="rails-html-sanitizer (v1.0.4, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rails-html-sanitizer-1.0.4/lib" />
@@ -13133,7 +13266,7 @@
     </library>
     <library name="railties (v5.1.4, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/railties-5.1.4/exe" />
@@ -13181,7 +13314,7 @@
     </library>
     <library name="rainbow (v2.2.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rainbow-2.2.2/ext" />
@@ -13280,7 +13413,7 @@
     </library>
     <library name="rake (v12.0.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rake-12.0.0/bin" />
@@ -13324,7 +13457,7 @@
     </library>
     <library name="rake (v12.2.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rake-12.2.1/bin" />
@@ -13390,7 +13523,7 @@
     </library>
     <library name="rake (v12.3.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rake-12.3.1/bin" />
@@ -13450,14 +13583,16 @@
     </library>
     <library name="rb-fsevent (v0.10.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.2" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.2" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/lib" />
@@ -13550,7 +13685,7 @@
     </library>
     <library name="rb-inotify (v0.9.10, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rb-inotify-0.9.10/lib" />
@@ -13639,7 +13774,7 @@
     </library>
     <library name="rdoc (v5.0.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/2.4.0/rdoc/rd" />
@@ -13715,7 +13850,7 @@
     </library>
     <library name="react-rails (v2.4.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/react-rails-2.4.1/lib" />
@@ -13751,7 +13886,7 @@
     </library>
     <library name="redis (v3.3.5, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/redis-3.3.5/lib" />
@@ -13801,7 +13936,7 @@
     </library>
     <library name="redis-namespace (v1.6.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/redis-namespace-1.6.0/lib" />
@@ -13833,7 +13968,7 @@
     </library>
     <library name="reform (v2.2.4, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/reform-2.2.4/lib" />
@@ -13887,7 +14022,7 @@
     </library>
     <library name="reform-rails (v0.1.7, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/reform-rails-0.1.7/lib" />
@@ -13936,7 +14071,7 @@
     </library>
     <library name="representable (v3.0.4, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/representable-3.0.4/lib" />
@@ -13984,7 +14119,7 @@
     </library>
     <library name="request_store (v1.3.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/request_store-1.3.2/lib" />
@@ -14070,7 +14205,7 @@
     </library>
     <library name="responders (v2.4.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/responders-2.4.0/lib" />
@@ -14111,7 +14246,7 @@
     </library>
     <library name="rest-client (v2.0.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rest-client-2.0.2/bin" />
@@ -14149,7 +14284,7 @@
     </library>
     <library name="retriable (v3.1.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/retriable-3.1.1/lib" />
@@ -14340,7 +14475,7 @@
     </library>
     <library name="rspec-collection_matchers (v1.1.3, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rspec-collection_matchers-1.1.3/lib" />
@@ -14430,7 +14565,7 @@
     </library>
     <library name="rspec-core (v3.7.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rspec-core-3.7.0/exe" />
@@ -14511,7 +14646,7 @@
     </library>
     <library name="rspec-expectations (v3.7.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rspec-expectations-3.7.0/lib" />
@@ -14566,7 +14701,7 @@
     </library>
     <library name="rspec-mocks (v3.7.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rspec-mocks-3.7.0/lib" />
@@ -14621,7 +14756,7 @@
     </library>
     <library name="rspec-rails (v3.7.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rspec-rails-3.7.1/lib" />
@@ -14706,7 +14841,7 @@
     </library>
     <library name="rspec-support (v3.7.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rspec-support-3.7.0/lib" />
@@ -14739,7 +14874,7 @@
     </library>
     <library name="rspotify (v2.3.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rspotify-2.3.0/lib" />
@@ -14755,7 +14890,7 @@
     </library>
     <library name="rubocop (v0.51.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rubocop-0.51.0/bin" />
@@ -14802,7 +14937,7 @@
     </library>
     <library name="ruby-debug-ide (v0.6.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1/bin" />
@@ -14840,7 +14975,7 @@
     </library>
     <library name="ruby-debug-ide (v0.6.1.beta10, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1.beta10/bin" />
@@ -14878,7 +15013,7 @@
     </library>
     <library name="ruby-debug-ide (v0.6.1.beta11, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1.beta11/bin" />
@@ -14916,7 +15051,7 @@
     </library>
     <library name="ruby-debug-ide (v0.6.1.beta12, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1.beta12/bin" />
@@ -14985,7 +15120,7 @@
     </library>
     <library name="ruby-debug-ide (v0.6.1.beta4, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1.beta4/bin" />
@@ -15023,7 +15158,7 @@
     </library>
     <library name="ruby-debug-ide (v0.6.1.beta9, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1.beta9/bin" />
@@ -15061,7 +15196,7 @@
     </library>
     <library name="ruby-debug-ide (v0.7.0.beta4, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.7.0.beta4/bin" />
@@ -15099,7 +15234,7 @@
     </library>
     <library name="ruby-debug-ide (v0.7.0.beta6, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.7.0.beta6/bin" />
@@ -15197,7 +15332,7 @@
     </library>
     <library name="ruby-progressbar (v1.9.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/ruby-progressbar-1.9.0/lib" />
@@ -15219,7 +15354,7 @@
     </library>
     <library name="ruby_dep (v1.5.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/ruby_dep-1.5.0/lib" />
@@ -15301,7 +15436,7 @@
     </library>
     <library name="rubyXL (v3.3.30, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rubyXL-3.3.30/lib" />
@@ -15361,7 +15496,7 @@
     </library>
     <library name="rubyzip (v1.2.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rubyzip-1.2.1/lib" />
@@ -15588,7 +15723,7 @@
     </library>
     <library name="sass (v3.5.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/sass-3.5.2/bin" />
@@ -15638,7 +15773,7 @@
     </library>
     <library name="sass-listen (v4.0.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/sass-listen-4.0.0/lib" />
@@ -15671,7 +15806,7 @@
     </library>
     <library name="sass-rails (v5.0.6, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/sass-rails-5.0.6/lib" />
@@ -15816,7 +15951,7 @@
     </library>
     <library name="selenium-webdriver (v3.5.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/selenium-webdriver-3.5.2/lib" />
@@ -15917,7 +16052,7 @@
     </library>
     <library name="sentry-raven (v2.7.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/sentry-raven-2.7.1/exe" />
@@ -16058,7 +16193,7 @@
     </library>
     <library name="sidekiq (v5.0.4, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/sidekiq-5.0.4/bin" />
@@ -16140,7 +16275,7 @@
     </library>
     <library name="signet (v0.8.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/signet-0.8.1/lib" />
@@ -16200,7 +16335,7 @@
     </library>
     <library name="simple_form (v3.5.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/simple_form-3.5.0/lib" />
@@ -16269,7 +16404,7 @@
     </library>
     <library name="simplecov (v0.15.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/simplecov-0.15.1/doc" />
@@ -16290,7 +16425,7 @@
     </library>
     <library name="simplecov-html (v0.10.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/simplecov-html-0.10.2/lib" />
@@ -16400,7 +16535,7 @@
     </library>
     <library name="site_prism (v2.9, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/site_prism-2.9/lib" />
@@ -16422,7 +16557,7 @@
     </library>
     <library name="sixarm_ruby_unaccent (v1.2.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/sixarm_ruby_unaccent-1.2.0/lib" />
@@ -16488,7 +16623,7 @@
     </library>
     <library name="slim (v3.0.8, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/slim-3.0.8/bin" />
@@ -16598,7 +16733,7 @@
     </library>
     <library name="slim-rails (v3.1.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/slim-rails-3.1.2/lib" />
@@ -16690,7 +16825,7 @@
     </library>
     <library name="sort_alphabetical (v1.1.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/sort_alphabetical-1.1.0/lib" />
@@ -16768,7 +16903,7 @@
     </library>
     <library name="spring (v2.0.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/spring-2.0.2/bin" />
@@ -16838,7 +16973,7 @@
     </library>
     <library name="spring-watcher-listen (v2.0.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/spring-watcher-listen-2.0.1/lib" />
@@ -16886,7 +17021,7 @@
     </library>
     <library name="sprockets (v3.7.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/sprockets-3.7.1/bin" />
@@ -16951,7 +17086,7 @@
     </library>
     <library name="sprockets-rails (v3.2.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/sprockets-rails-3.2.1/lib" />
@@ -17049,7 +17184,7 @@
     </library>
     <library name="sshkit (v1.14.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/sshkit-1.14.0/lib" />
@@ -17168,7 +17303,7 @@
     </library>
     <library name="stripe (v3.6.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/stripe-3.6.0/bin" />
@@ -17190,7 +17325,7 @@
     </library>
     <library name="stripe-ruby-mock (v2.5.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/stripe-ruby-mock-2.5.0/bin" />
@@ -17209,7 +17344,7 @@
     </library>
     <library name="stripe_event (v1.8.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/stripe_event-1.8.0/app" />
@@ -17342,7 +17477,7 @@
     </library>
     <library name="temple (v0.8.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/temple-0.8.0/lib" />
@@ -17374,7 +17509,7 @@
     </library>
     <library name="test-prof (v0.5.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/test-prof-0.5.0/lib" />
@@ -17419,7 +17554,7 @@
     </library>
     <library name="test-unit (v3.2.3, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/test-unit-3.2.3/doc" />
@@ -17532,7 +17667,7 @@
     </library>
     <library name="thor (v0.20.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/thor-0.20.0/bin" />
@@ -17576,7 +17711,7 @@
     </library>
     <library name="thread_safe (v0.3.6, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/thread_safe-0.3.6/ext" />
@@ -17701,7 +17836,7 @@
     </library>
     <library name="tilt (v2.0.8, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/tilt-2.0.8/bin" />
@@ -17835,7 +17970,7 @@
     </library>
     <library name="turbolinks (v5.0.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/turbolinks-5.0.1/lib" />
@@ -17846,7 +17981,7 @@
     </library>
     <library name="turbolinks-source (v5.0.3, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/turbolinks-source-5.0.3/lib" />
@@ -17927,7 +18062,7 @@
     </library>
     <library name="tzinfo (v1.2.4, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/tzinfo-1.2.4/lib" />
@@ -17959,7 +18094,7 @@
     </library>
     <library name="tzinfo (v1.2.5, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/tzinfo-1.2.5/lib" />
@@ -17991,7 +18126,7 @@
     </library>
     <library name="uber (v0.1.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/uber-0.1.0/lib" />
@@ -18050,7 +18185,7 @@
     </library>
     <library name="uglifier (v3.2.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/uglifier-3.2.0/lib" />
@@ -18107,7 +18242,7 @@
     </library>
     <library name="unf (v0.1.4, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/unf-0.1.4/lib" />
@@ -18139,7 +18274,7 @@
     </library>
     <library name="unf_ext (v0.0.7.5, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/unf_ext-0.0.7.5/ext" />
@@ -18177,7 +18312,7 @@
     </library>
     <library name="unicode-display_width (v1.3.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/unicode-display_width-1.3.0/lib" />
@@ -18215,7 +18350,7 @@
     </library>
     <library name="unicode_utils (v1.4.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/unicode_utils-1.4.0/lib" />
@@ -18403,7 +18538,7 @@
     </library>
     <library name="warden (v1.2.7, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/warden-1.2.7/lib" />
@@ -18561,7 +18696,7 @@
     </library>
     <library name="webpacker (v3.0.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/webpacker-3.0.2/exe" />
@@ -18686,7 +18821,7 @@
     </library>
     <library name="webpacker (v3.5.3, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/webpacker-3.5.3/lib" />
@@ -18797,14 +18932,16 @@
     </library>
     <library name="websocket-driver (v0.6.5, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/websocket-driver-0.6.5/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/websocket-driver-0.6.5/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/websocket-driver-0.6.5/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/websocket-driver-0.6.5/examples" />
@@ -18848,7 +18985,7 @@
     </library>
     <library name="websocket-extensions (v0.1.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/websocket-extensions-0.1.2/lib" />
@@ -18919,7 +19056,7 @@
     </library>
     <library name="xmlrpc (v0.2.1, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/xmlrpc-0.2.1/bin" />
@@ -18983,7 +19120,7 @@
     </library>
     <library name="xpath (v2.1.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/xpath-2.1.0/lib" />

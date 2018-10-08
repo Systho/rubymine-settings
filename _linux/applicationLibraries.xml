@@ -20845,6 +20845,25 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/stripe-ruby-mock-2.5.0/spec" />
       </excluded>
     </library>
+    <library name="stripe-ruby-mock (v2.5.5, ruby-2.4.1-p111) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/stripe-ruby-mock-2.5.5/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/stripe-ruby-mock-2.5.5/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/stripe-ruby-mock-2.5.5/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/stripe-ruby-mock-2.5.5/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/stripe-ruby-mock-2.5.5/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/stripe-ruby-mock-2.5.5/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/stripe-ruby-mock-2.5.5/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/stripe-ruby-mock-2.5.5/spec" />
+      </excluded>
+    </library>
     <library name="stripe_event (v1.8.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />

@@ -12137,6 +12137,25 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/mini_mime-1.0.0/bench" />
       </excluded>
     </library>
+    <library name="mini_mime (v1.0.1, ruby-2.4.1-p111) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/mini_mime-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/mini_mime-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/mini_mime-1.0.1/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/mini_mime-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/mini_mime-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/mini_mime-1.0.1/bench" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/mini_mime-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/mini_mime-1.0.1/bench" />
+      </excluded>
+    </library>
     <library name="mini_mime (v1.0.1, ruby-2.4.2-p198) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -13422,6 +13441,39 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.4/tasks" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.4/patches" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.4/suppressions" />
+      </excluded>
+    </library>
+    <library name="nokogiri (v1.8.5, ruby-2.4.1-p111) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.5" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/tasks" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/patches" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.5" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/tasks" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/patches" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/suppressions" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/tasks" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/patches" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/suppressions" />
       </excluded>
     </library>
     <library name="nokogumbo (v1.4.1, ruby-2.4.1-p111) [gem]" type="rubylib">
@@ -14742,6 +14794,28 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/public_suffix-3.0.2/test" />
       </excluded>
     </library>
+    <library name="public_suffix (v3.0.3, ruby-2.4.1-p111) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/public_suffix-3.0.3/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/public_suffix-3.0.3/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/public_suffix-3.0.3/data" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/public_suffix-3.0.3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/public_suffix-3.0.3/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/public_suffix-3.0.3/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/public_suffix-3.0.3/data" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/public_suffix-3.0.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/public_suffix-3.0.3/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/public_suffix-3.0.3/data" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/public_suffix-3.0.3/test" />
+      </excluded>
+    </library>
     <library name="public_suffix (v3.0.3, ruby-2.4.2-p198) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -15683,6 +15757,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/rack-test-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-test (v1.1.0, ruby-2.4.1-p111) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rack-test-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/rack-test-1.1.0/lib" />
       </SOURCES>
     </library>
     <library name="rack-test (v1.1.0, ruby-2.4.2-p198) [gem]" type="rubylib">
@@ -19939,6 +20024,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/site_prism-2.17/lib" />
+      </SOURCES>
+    </library>
+    <library name="site_prism (v2.17.1, ruby-2.4.1-p111) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/site_prism-2.17.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/site_prism-2.17.1/lib" />
       </SOURCES>
     </library>
     <library name="site_prism (v2.6, ruby-2.2.1-p85) [gem]" type="rubylib">

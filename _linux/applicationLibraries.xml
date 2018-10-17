@@ -31395,6 +31395,17 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/redis-namespace-1.6.0/spec" />
       </excluded>
     </library>
+    <library name="redis-prescription (v1.0.0, asdf: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/redis-prescription-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/redis-prescription-1.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="redis-rack (v2.0.2, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -36184,6 +36195,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/sidekiq-scheduler-2.2.1/web" />
+      </excluded>
+    </library>
+    <library name="sidekiq-throttled (v0.9.0, asdf: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/sidekiq-throttled-0.9.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/sidekiq-throttled-0.9.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/sidekiq-throttled-0.9.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/sidekiq-throttled-0.9.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/sidekiq-throttled-0.9.0/gemfiles" />
       </excluded>
     </library>
     <library name="signet (v0.11.0, asdf: 2.5.1) [gem]" type="rubylib">

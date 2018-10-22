@@ -3944,13 +3944,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.12/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.12/spec" />
@@ -5106,13 +5104,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/9.1.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/byebug-9.1.0/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/byebug-9.1.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/byebug-9.1.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/9.1.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/byebug-9.1.0/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/byebug-9.1.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/byebug-9.1.0/lib" />
@@ -14572,13 +14568,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/ffi-1.9.25/samples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/ffi-1.9.25/samples" />
@@ -19324,12 +19318,10 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/jaro_winkler/1.5.1" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/jaro_winkler-1.5.1/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/jaro_winkler-1.5.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/jaro_winkler/1.5.1" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/jaro_winkler-1.5.1/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/jaro_winkler-1.5.1/lib" />
       </SOURCES>
@@ -20010,7 +20002,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/json/1.8.6" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/json-1.8.6/data" />
@@ -20020,7 +20011,6 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/json-1.8.6/diagrams" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/json/1.8.6" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/json-1.8.6/data" />
@@ -24446,7 +24436,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.1/spec" />
@@ -24454,7 +24443,6 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.1/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.1/spec" />
@@ -24876,7 +24864,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.5" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.5/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.5/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.5/lib" />
@@ -24886,7 +24873,6 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.5/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.5" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.5/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.5/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.5/lib" />
@@ -26278,13 +26264,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/1.1.3" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/pg-1.1.3/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/pg-1.1.3/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/pg-1.1.3/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/1.1.3" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/pg-1.1.3/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/pg-1.1.3/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/pg-1.1.3/spec" />
@@ -27707,7 +27691,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.12.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/puma-3.12.0/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/puma-3.12.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/puma-3.12.0/lib" />
@@ -27715,7 +27698,6 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/puma-3.12.0/tools" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.12.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/puma-3.12.0/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/puma-3.12.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/puma-3.12.0/lib" />
@@ -30640,13 +30622,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.10.3/lib" />
@@ -42056,13 +42036,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/websocket-driver-0.6.5/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/websocket-driver-0.6.5/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/websocket-driver-0.6.5/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/websocket-driver-0.6.5/examples" />

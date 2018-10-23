@@ -3837,6 +3837,25 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/capybara-screenshot-1.0.21/gemfiles" />
       </excluded>
     </library>
+    <library name="capybara-screenshot (v1.0.22, asdf: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/capybara-screenshot-1.0.22/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/capybara-screenshot-1.0.22/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/capybara-screenshot-1.0.22/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/capybara-screenshot-1.0.22/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/capybara-screenshot-1.0.22/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/capybara-screenshot-1.0.22/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/capybara-screenshot-1.0.22/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/capybara-screenshot-1.0.22/gemfiles" />
+      </excluded>
+    </library>
     <library name="capybara-screenshot (v1.0.7, ruby-2.2.1-p85) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />

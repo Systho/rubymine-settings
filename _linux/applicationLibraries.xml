@@ -4120,13 +4120,12 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="bigdecimal (v1.2.6, ruby-2.2.1-p85) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/bigdecimal" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/bigdecimal" />
-      </SOURCES>
+    <library name="bigdecimal (v1.2.6, ruby-2.2.1-p85) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="bigdecimal (v1.2.8, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
@@ -19254,6 +19253,13 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="io-console (v0.4.3, ruby-2.2.1-p85) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="io-console (v0.4.5, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -20009,13 +20015,19 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/js-routes-1.4.4/gemfiles" />
       </excluded>
     </library>
-    <library name="json (v1.8.1, ruby-2.2.1-p85) [gem]">
+    <library name="json (v1.8.1, ruby-2.2.1-p85) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/json/add" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/json/add" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/json/add" />
+      </excluded>
     </library>
     <library name="json (v1.8.2, ruby-2.2.1-p85) [gem]" type="rubylib">
       <properties>
@@ -27183,19 +27195,28 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/pry-rescue-1.4.5/examples" />
       </excluded>
     </library>
-    <library name="psych (v2.0.8, ruby-2.2.1-p85) [gem]">
+    <library name="psych (v2.0.8, ruby-2.2.1-p85) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/psych/visitors" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/psych/handlers" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/psych/nodes" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/psych/json" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/psych/visitors" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/psych/visitors" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/psych/handlers" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/psych/nodes" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/psych/json" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/psych/visitors" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/psych/json" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/psych/visitors" />
+      </excluded>
     </library>
     <library name="psych (v2.2.2, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
@@ -30188,19 +30209,27 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.1.2/lib/ruby/gems/2.1.0/gems/rake-10.3.2/rakelib" />
       </excluded>
     </library>
-    <library name="rake (v10.4.2, ruby-2.2.1-p85) [gem]">
+    <library name="rake (v10.4.2, ruby-2.2.1-p85) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rake/loaders" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rake/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rake/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rake/contrib" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rake/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rake/loaders" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rake/loaders" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rake/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rake/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rake/contrib" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rake/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rake/loaders" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rake/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rake/contrib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rake/loaders" />
+      </excluded>
     </library>
     <library name="rake (v10.4.2, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
@@ -30975,29 +31004,43 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.1.2/lib/ruby/gems/2.1.0/gems/rdoc-4.1.1/test" />
       </excluded>
     </library>
-    <library name="rdoc (v4.2.0, ruby-2.2.1-p85) [gem]">
+    <library name="rdoc (v4.2.0, ruby-2.2.1-p85) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/rd" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/ri" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/i18n" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/generator" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/markup" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/parser" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/context" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/ri" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/markup" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/generator" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/rd" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/ri" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/i18n" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/generator" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/markup" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/parser" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/context" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/ri" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/markup" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/generator" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.2.1/lib/ruby/2.2.0/rdoc/generator" />
+      </excluded>
     </library>
     <library name="rdoc (v5.0.0, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>

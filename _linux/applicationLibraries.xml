@@ -3505,13 +3505,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/bcrypt-3.1.12/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/bcrypt-3.1.12/spec" />
@@ -3909,14 +3907,12 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.8.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.8.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.8.0/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.8.0/test" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.8.0/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.8.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.8.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.8.0/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.8.0/test" />
@@ -4122,13 +4118,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bson/4.3.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/bson-4.3.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/bson-4.3.0/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/bson-4.3.0/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bson/4.3.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/bson-4.3.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/bson-4.3.0/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/bson-4.3.0/spec" />
@@ -4143,11 +4137,9 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bson_ext/1.5.1" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/bson_ext-1.5.1/ext" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bson_ext/1.5.1" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/bson_ext-1.5.1/ext" />
       </SOURCES>
     </library>
@@ -8954,42 +8946,23 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.1/test" />
       </excluded>
     </library>
-    <library name="debase (v0.2.2, asdf: 2.4.2) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2/ext" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2/lib" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2/ext" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2/lib" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2/ext" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2/test" />
-      </excluded>
-    </library>
     <library name="debase (v0.2.2, asdf: 2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/debase-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/debase-0.2.2/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/debase-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/debase-0.2.2/test" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/debase-0.2.2/test" />
       </excluded>
     </library>
     <library name="debase (v0.2.2, asdf: 2.5.1) [gem]" type="rubylib">
@@ -9009,82 +8982,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/debase-0.2.2/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/debase-0.2.2/test" />
-      </excluded>
-    </library>
-    <library name="debase (v0.2.2, ruby-2.4.1-p111) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2/test" />
-      </excluded>
-    </library>
-    <library name="debase (v0.2.2, ruby-2.4.2-p198) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2/ext" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2/lib" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2/ext" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2/lib" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2/ext" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2/test" />
-      </excluded>
-    </library>
-    <library name="debase (v0.2.2.beta10, asdf: 2.4.2) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/test" />
-      </excluded>
-    </library>
-    <library name="debase (v0.2.2.beta10, asdf: 2.4.4) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/test" />
       </excluded>
     </library>
     <library name="debase (v0.2.2.beta10, ruby-2.2.1-p85) [gem]" type="rubylib">
@@ -9125,196 +9022,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta10/test" />
       </excluded>
     </library>
-    <library name="debase (v0.2.2.beta10, ruby-2.4.1-p111) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/test" />
-      </excluded>
-    </library>
-    <library name="debase (v0.2.2.beta10, ruby-2.4.2-p198) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/test" />
-      </excluded>
-    </library>
-    <library name="debase (v0.2.2.beta11, asdf: 2.4.2) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/ext" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/lib" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/ext" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/lib" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/ext" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/test" />
-      </excluded>
-    </library>
-    <library name="debase (v0.2.2.beta11, asdf: 2.4.4) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta11/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta11/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta11/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta11/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta11/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta11/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta11/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta11/test" />
-      </excluded>
-    </library>
-    <library name="debase (v0.2.2.beta11, ruby-2.4.1-p111) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta11/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta11/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta11/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta11/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta11/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta11/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta11/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta11/test" />
-      </excluded>
-    </library>
-    <library name="debase (v0.2.2.beta11, ruby-2.4.2-p198) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/ext" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/lib" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/ext" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/lib" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/ext" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/test" />
-      </excluded>
-    </library>
-    <library name="debase (v0.2.2.beta14, asdf: 2.4.2) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/test" />
-      </excluded>
-    </library>
-    <library name="debase (v0.2.2.beta14, asdf: 2.4.4) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/test" />
-      </excluded>
-    </library>
-    <library name="debase (v0.2.2.beta14, ruby-2.4.1-p111) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/test" />
-      </excluded>
-    </library>
-    <library name="debase (v0.2.2.beta14, ruby-2.4.2-p198) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/test" />
-      </excluded>
-    </library>
     <library name="debase (v0.2.2.beta9, asdf: 2.1.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -9332,44 +9039,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/debase-0.2.2.beta9/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/debase-0.2.2.beta9/test" />
-      </excluded>
-    </library>
-    <library name="debase (v0.2.2.beta9, asdf: 2.4.2) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/test" />
-      </excluded>
-    </library>
-    <library name="debase (v0.2.2.beta9, asdf: 2.4.4) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/test" />
       </excluded>
     </library>
     <library name="debase (v0.2.2.beta9, ruby-2.1.4-p265) [gem]" type="rubylib">
@@ -9391,80 +9060,23 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/debase-0.2.2.beta9/test" />
       </excluded>
     </library>
-    <library name="debase (v0.2.2.beta9, ruby-2.4.1-p111) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/test" />
-      </excluded>
-    </library>
-    <library name="debase (v0.2.2.beta9, ruby-2.4.2-p198) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta9/test" />
-      </excluded>
-    </library>
-    <library name="debase (v0.2.3.beta2, asdf: 2.4.2) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/test" />
-      </excluded>
-    </library>
     <library name="debase (v0.2.3.beta2, asdf: 2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/debase-0.2.3.beta2/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/debase-0.2.3.beta2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/debase-0.2.3.beta2/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/debase-0.2.3.beta2/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/debase-0.2.3.beta2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/debase-0.2.3.beta2/test" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/debase-0.2.3.beta2/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/debase-0.2.3.beta2/test" />
       </excluded>
     </library>
     <library name="debase (v0.2.3.beta2, asdf: 2.5.1) [gem]" type="rubylib">
@@ -9484,44 +9096,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/debase-0.2.3.beta2/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/debase-0.2.3.beta2/test" />
-      </excluded>
-    </library>
-    <library name="debase (v0.2.3.beta2, ruby-2.4.1-p111) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/test" />
-      </excluded>
-    </library>
-    <library name="debase (v0.2.3.beta2, ruby-2.4.2-p198) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/test" />
       </excluded>
     </library>
     <library name="debase-ruby_core_source (v0.10.0, asdf: 2.4.2) [gem]" type="rubylib">
@@ -9750,13 +9324,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/debug_inspector-0.0.3/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/debug_inspector-0.0.3/test" />
@@ -13485,7 +13057,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/lib" />
@@ -13493,7 +13064,6 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/libtest" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/lib" />
@@ -17395,12 +16965,10 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/jaro_winkler/1.5.1" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/jaro_winkler-1.5.1/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/jaro_winkler-1.5.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/jaro_winkler/1.5.1" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/jaro_winkler-1.5.1/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/jaro_winkler-1.5.1/lib" />
       </SOURCES>
@@ -22384,7 +21952,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/nio4r-2.3.1/spec" />
@@ -22392,7 +21959,6 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/nio4r-2.3.1/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/nio4r-2.3.1/spec" />
@@ -22712,7 +22278,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.5" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/lib" />
@@ -22722,7 +22287,6 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.5" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/lib" />
@@ -24967,13 +24531,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/psych/3.0.3" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/psych-3.0.3/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/psych-3.0.3/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/psych-3.0.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/psych/3.0.3" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/psych-3.0.3/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/psych-3.0.3/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/psych-3.0.3/lib" />
@@ -25465,7 +25027,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.12.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/puma-3.12.0/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/puma-3.12.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/puma-3.12.0/lib" />
@@ -25473,7 +25034,6 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/puma-3.12.0/tools" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.12.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/puma-3.12.0/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/puma-3.12.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/puma-3.12.0/lib" />
@@ -28208,13 +27768,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.3/lib" />
@@ -30979,18 +30537,18 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.1/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.1/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.1/lib" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.1/ext" />
       </excluded>
     </library>
     <library name="ruby-debug-ide (v0.6.1, ruby-2.4.1-p111) [gem]" type="rubylib">
@@ -31760,7 +31318,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ruby-prof/0.17.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/ruby-prof-0.17.0/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/ruby-prof-0.17.0/doc" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/ruby-prof-0.17.0/ext" />
@@ -31769,7 +31326,6 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/ruby-prof-0.17.0/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ruby-prof/0.17.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/ruby-prof-0.17.0/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/ruby-prof-0.17.0/doc" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/ruby-prof-0.17.0/ext" />
@@ -32899,13 +32455,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/sassc/2.0.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/sassc-2.0.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/sassc-2.0.0/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/sassc-2.0.0/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/sassc/2.0.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/sassc-2.0.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/sassc-2.0.0/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/sassc-2.0.0/test" />
@@ -34457,13 +34011,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/skylight/3.1.1" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/skylight-3.1.1/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/skylight-3.1.1/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/skylight-3.1.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/skylight/3.1.1" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/skylight-3.1.1/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/skylight-3.1.1/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/skylight-3.1.1/lib" />
@@ -35893,7 +35445,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/stackprof/0.2.12" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/stackprof-0.2.12/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/stackprof-0.2.12/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/stackprof-0.2.12/lib" />
@@ -35901,7 +35452,6 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/stackprof-0.2.12/vendor" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/stackprof/0.2.12" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/stackprof-0.2.12/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/stackprof-0.2.12/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/stackprof-0.2.12/lib" />
@@ -39190,13 +38740,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/websocket-driver-0.6.5/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/websocket-driver-0.6.5/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/websocket-driver-0.6.5/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.4/lib/ruby/gems/2.4.0/gems/websocket-driver-0.6.5/examples" />

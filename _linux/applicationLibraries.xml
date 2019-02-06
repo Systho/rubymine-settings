@@ -194,25 +194,6 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/activerecord-5.1.4/examples" />
       </excluded>
     </library>
-    <library name="activerecord-redshift-adapter (v0.3.0@24ee24, asdf: 2.5.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/activerecord-redshift-adapter-24ee2419126c/lib" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/activerecord-redshift-adapter-24ee2419126c/.git" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/activerecord-redshift-adapter-24ee2419126c/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/activerecord-redshift-adapter-24ee2419126c/lib" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/activerecord-redshift-adapter-24ee2419126c/.git" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/activerecord-redshift-adapter-24ee2419126c/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/activerecord-redshift-adapter-24ee2419126c/.git" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/activerecord-redshift-adapter-24ee2419126c/test" />
-      </excluded>
-    </library>
     <library name="activeresource (v5.0.0, ruby-2.4.2-p198) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -3147,34 +3128,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/fog-core-1.44.3/spec" />
-      </excluded>
-    </library>
-    <library name="fog-google (v1.3.3@d86623, asdf: 2.5.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/fog-google-d8662399f5e8/ci" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/fog-google-d8662399f5e8/lib" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/fog-google-d8662399f5e8/.git" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/fog-google-d8662399f5e8/test" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/fog-google-d8662399f5e8/tasks" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/fog-google-d8662399f5e8/examples" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/fog-google-d8662399f5e8/ci" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/fog-google-d8662399f5e8/lib" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/fog-google-d8662399f5e8/.git" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/fog-google-d8662399f5e8/test" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/fog-google-d8662399f5e8/tasks" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/fog-google-d8662399f5e8/examples" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/fog-google-d8662399f5e8/ci" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/fog-google-d8662399f5e8/.git" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/fog-google-d8662399f5e8/test" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/fog-google-d8662399f5e8/tasks" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/fog-google-d8662399f5e8/examples" />
       </excluded>
     </library>
     <library name="fog-json (v1.0.2, ruby-2.4.2-p198) [gem]" type="rubylib">

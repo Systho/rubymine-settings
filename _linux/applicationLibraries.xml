@@ -7040,6 +7040,25 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.3.beta2/test" />
       </excluded>
     </library>
+    <library name="debase (v0.2.3.beta3, asdf: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/debase-0.2.3.beta3/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/debase-0.2.3.beta3/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/debase-0.2.3.beta3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/debase-0.2.3.beta3/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/debase-0.2.3.beta3/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/debase-0.2.3.beta3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/debase-0.2.3.beta3/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/debase-0.2.3.beta3/test" />
+      </excluded>
+    </library>
     <library name="debase (v0.2.3.beta3, ruby-2.2.1-p85) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />

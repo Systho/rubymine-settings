@@ -1966,6 +1966,22 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/bundler/gems/api-versions-4e6f2d01369c/spec" />
       </excluded>
     </library>
+    <library name="apollo_upload_server (v2.0.0.beta.3, asdf: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/apollo_upload_server-2.0.0.beta.3/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/apollo_upload_server-2.0.0.beta.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/apollo_upload_server-2.0.0.beta.3/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/apollo_upload_server-2.0.0.beta.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/apollo_upload_server-2.0.0.beta.3/bin" />
+      </excluded>
+    </library>
     <library name="appsignal (v2.7.2, asdf: 2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />

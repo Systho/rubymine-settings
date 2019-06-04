@@ -2135,6 +2135,22 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/ast-2.4.0/test" />
       </excluded>
     </library>
+    <library name="ast (v2.4.0, Remote: ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/ast-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/ast-2.4.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/ast-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/ast-2.4.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/ast-2.4.0/test" />
+      </excluded>
+    </library>
     <library name="ast (v2.4.0, ruby-2.4.2-p198) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -13173,6 +13189,24 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/jaro_winkler-1.5.2/ext" />
       </excluded>
     </library>
+    <library name="jaro_winkler (v1.5.2, Remote: ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/jaro_winkler/1.5.2" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/jaro_winkler-1.5.2/ext" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/jaro_winkler-1.5.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/jaro_winkler/1.5.2" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/jaro_winkler-1.5.2/ext" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/jaro_winkler-1.5.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/jaro_winkler-1.5.2/ext" />
+      </excluded>
+    </library>
     <library name="jazz_hands (v0.5.2@5e4b48, asdf: 2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -17109,6 +17143,31 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/parser-2.6.0.0/test" />
       </excluded>
     </library>
+    <library name="parser (v2.6.3.0, Remote: ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/parser-2.6.3.0/ci" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/parser-2.6.3.0/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/parser-2.6.3.0/doc" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/parser-2.6.3.0/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/parser-2.6.3.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/parser-2.6.3.0/ci" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/parser-2.6.3.0/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/parser-2.6.3.0/doc" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/parser-2.6.3.0/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/parser-2.6.3.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/parser-2.6.3.0/ci" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/parser-2.6.3.0/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/parser-2.6.3.0/doc" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/parser-2.6.3.0/test" />
+      </excluded>
+    </library>
     <library name="pdf-forms (v1.1.1, ruby-2.4.2-p198) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -19407,6 +19466,22 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rainbow-3.0.0/spec" />
       </excluded>
     </library>
+    <library name="rainbow (v3.0.0, Remote: ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rainbow-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rainbow-3.0.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rainbow-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rainbow-3.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rainbow-3.0.0/spec" />
+      </excluded>
+    </library>
     <library name="rainbow (v3.0.0, ruby-2.4.2-p198) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -21585,6 +21660,52 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rspotify-2.4.1/spec" />
       </excluded>
     </library>
+    <library name="rswag (v2.0.5, Remote: ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rswag-2.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rswag-2.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="rswag-api (v2.0.5, Remote: ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rswag-api-2.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rswag-api-2.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="rswag-specs (v2.0.5, Remote: ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rswag-specs-2.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rswag-specs-2.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="rswag-ui (v2.0.5, Remote: ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rswag-ui-2.0.5/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rswag-ui-2.0.5/node_modules" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rswag-ui-2.0.5/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rswag-ui-2.0.5/node_modules" />
+      </SOURCES>
+    </library>
     <library name="rubocop (v0.51.0, asdf: 2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -21680,6 +21801,31 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rubocop-0.63.1/exe" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rubocop-0.63.1/assets" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rubocop-0.63.1/config" />
+      </excluded>
+    </library>
+    <library name="rubocop (v0.71.0, Remote: ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rubocop-0.71.0/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rubocop-0.71.0/exe" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rubocop-0.71.0/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rubocop-0.71.0/assets" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rubocop-0.71.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rubocop-0.71.0/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rubocop-0.71.0/exe" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rubocop-0.71.0/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rubocop-0.71.0/assets" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rubocop-0.71.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rubocop-0.71.0/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rubocop-0.71.0/exe" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rubocop-0.71.0/assets" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rubocop-0.71.0/config" />
       </excluded>
     </library>
     <library name="ruby-debug-ide (v0.6.1, Remote: ruby-2.5.3-p105) [gem]" type="rubylib">
@@ -21988,6 +22134,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/ruby-progressbar-1.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.10.1, Remote: ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/ruby-progressbar-1.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/ruby-progressbar-1.10.1/lib" />
       </SOURCES>
     </library>
     <library name="ruby-progressbar (v1.9.0, asdf: 2.5.1) [gem]" type="rubylib">
@@ -25890,6 +26047,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/unicode-display_width-1.4.1/data" />
+      </excluded>
+    </library>
+    <library name="unicode-display_width (v1.6.0, Remote: ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/unicode-display_width-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/unicode-display_width-1.6.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/unicode-display_width-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/unicode-display_width-1.6.0/data" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/unicode-display_width-1.6.0/data" />
       </excluded>
     </library>
     <library name="unicode_utils (v1.4.0, asdf: 2.5.1) [gem]" type="rubylib">

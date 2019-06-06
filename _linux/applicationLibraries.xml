@@ -31447,6 +31447,28 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/webmock-3.5.1/minitest" />
       </excluded>
     </library>
+    <library name="webmock (v3.6.0, asdf: 2.6.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.1/lib/ruby/gems/2.6.0/gems/webmock-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.1/lib/ruby/gems/2.6.0/gems/webmock-3.6.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.1/lib/ruby/gems/2.6.0/gems/webmock-3.6.0/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.1/lib/ruby/gems/2.6.0/gems/webmock-3.6.0/minitest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.1/lib/ruby/gems/2.6.0/gems/webmock-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.1/lib/ruby/gems/2.6.0/gems/webmock-3.6.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.1/lib/ruby/gems/2.6.0/gems/webmock-3.6.0/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.1/lib/ruby/gems/2.6.0/gems/webmock-3.6.0/minitest" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.1/lib/ruby/gems/2.6.0/gems/webmock-3.6.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.1/lib/ruby/gems/2.6.0/gems/webmock-3.6.0/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.1/lib/ruby/gems/2.6.0/gems/webmock-3.6.0/minitest" />
+      </excluded>
+    </library>
     <library name="webpacker (v3.0.0, ruby-2.4.2-p198) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />

@@ -17076,6 +17076,17 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/faraday-0.9.2/lib" />
       </SOURCES>
     </library>
+    <library name="faraday_middleware (v0.13.1, Remote: ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/faraday_middleware-0.13.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/faraday_middleware-0.13.1/lib" />
+      </SOURCES>
+    </library>
     <library name="fast_jsonapi (v1.5, Remote: ruby-2.5.3-p105) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -42309,6 +42320,28 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/sugar-rails-1.4.1/app" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/sugar-rails-1.4.1/lib" />
       </SOURCES>
+    </library>
+    <library name="swanest (v0.1.0@668a78, Remote: ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/bundler/gems/swanest-668a78330c4c/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/bundler/gems/swanest-668a78330c4c/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/bundler/gems/swanest-668a78330c4c/.git" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/bundler/gems/swanest-668a78330c4c/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/bundler/gems/swanest-668a78330c4c/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/bundler/gems/swanest-668a78330c4c/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/bundler/gems/swanest-668a78330c4c/.git" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/bundler/gems/swanest-668a78330c4c/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/bundler/gems/swanest-668a78330c4c/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/bundler/gems/swanest-668a78330c4c/.git" />
+        <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/bundler/gems/swanest-668a78330c4c/spec" />
+      </excluded>
     </library>
     <library name="sweet-alert (v0.0.7, asdf: 2.4.2) [gem]" type="rubylib">
       <properties>

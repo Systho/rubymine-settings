@@ -49403,6 +49403,28 @@
         <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/bundler/gems/swanest-668a78330c4c/spec" />
       </excluded>
     </library>
+    <library name="swanest (v0.1.0@71eafa, asdf: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/swanest-71eafabd8e7c/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/swanest-71eafabd8e7c/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/swanest-71eafabd8e7c/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/swanest-71eafabd8e7c/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/swanest-71eafabd8e7c/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/swanest-71eafabd8e7c/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/swanest-71eafabd8e7c/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/swanest-71eafabd8e7c/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/swanest-71eafabd8e7c/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/swanest-71eafabd8e7c/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/swanest-71eafabd8e7c/spec" />
+      </excluded>
+    </library>
     <library name="sweet-alert (v0.0.7, asdf: 2.4.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />

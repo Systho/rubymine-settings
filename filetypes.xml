@@ -6,6 +6,7 @@
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".git_keep" type="PLAIN_TEXT" />
       <mapping ext="secrets" type="PLAIN_TEXT" />
+      <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />

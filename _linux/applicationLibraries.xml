@@ -30177,6 +30177,24 @@
         <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/jquery-rails-4.3.3/test" />
       </excluded>
     </library>
+    <library name="jquery-rails (v4.3.5, asdf: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/jquery-rails-4.3.5/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/jquery-rails-4.3.5/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/jquery-rails-4.3.5/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/jquery-rails-4.3.5/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/jquery-rails-4.3.5/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/jquery-rails-4.3.5/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/jquery-rails-4.3.5/test" />
+      </excluded>
+    </library>
     <library name="jquery-ui-rails (v4.2.1, ruby-2.2.1-p85) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -36462,14 +36480,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.10.2" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.2/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.2/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.2/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.2/patches" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.10.2" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.2/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.2/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.2/lib" />
@@ -36501,6 +36517,30 @@
         <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/nokogiri-1.10.2/bin" />
         <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/nokogiri-1.10.2/ext" />
         <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/nokogiri-1.10.2/patches" />
+      </excluded>
+    </library>
+    <library name="nokogiri (v1.10.3, asdf: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.10.3" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.3/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.3/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.3/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.3/patches" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.10.3" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.3/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.3/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.3/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.3/patches" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.3/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.3/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.3/patches" />
       </excluded>
     </library>
     <library name="nokogiri (v1.6.5, ruby-2.2.1-p85) [gem]" type="rubylib">
@@ -43996,6 +44036,28 @@
         <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rake-12.3.2/bin" />
         <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rake-12.3.2/doc" />
         <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/rake-12.3.2/exe" />
+      </excluded>
+    </library>
+    <library name="rake (v12.3.3, asdf: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rake-12.3.3/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rake-12.3.3/doc" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rake-12.3.3/exe" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rake-12.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rake-12.3.3/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rake-12.3.3/doc" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rake-12.3.3/exe" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rake-12.3.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rake-12.3.3/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rake-12.3.3/doc" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rake-12.3.3/exe" />
       </excluded>
     </library>
     <library name="randexp (v0.1.7, asdf: 2.5.3) [gem]" type="rubylib">

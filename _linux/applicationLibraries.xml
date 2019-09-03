@@ -4845,6 +4845,17 @@
         <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/aws-partitions-1.149.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.207.0, asdf: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/aws-partitions-1.207.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/aws-partitions-1.207.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.10.23, asdf: 2.4.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5953,6 +5964,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/aws-sdk-core-3.48.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v3.65.1, asdf: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/aws-sdk-core-3.65.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/aws-sdk-core-3.65.1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-costandusagereportservice (v1.10.0, asdf: 2.5.3) [gem]" type="rubylib">
@@ -7099,6 +7121,17 @@
         <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/aws-sdk-kms-1.16.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-kms (v1.24.0, asdf: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/aws-sdk-kms-1.24.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/aws-sdk-kms-1.24.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-lambda (v1.21.0, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8196,6 +8229,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/aws-sdk-s3-1.36.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-s3 (v1.47.0, asdf: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/aws-sdk-s3-1.47.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/aws-sdk-s3-1.47.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-s3control (v1.4.0, asdf: 2.5.3) [gem]" type="rubylib">
@@ -51598,6 +51642,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.4.2/lib/ruby/gems/2.4.0/gems/selenium-webdriver-3.9.0/lib" />
       </SOURCES>
+    </library>
+    <library name="sentry-raven (v2.11.0, asdf: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/sentry-raven-2.11.0/exe" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/sentry-raven-2.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/sentry-raven-2.11.0/exe" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/sentry-raven-2.11.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/sentry-raven-2.11.0/exe" />
+      </excluded>
     </library>
     <library name="sentry-raven (v2.5.2, asdf: 2.4.2) [gem]" type="rubylib">
       <properties>

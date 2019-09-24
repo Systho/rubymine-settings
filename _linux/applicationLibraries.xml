@@ -53553,6 +53553,22 @@
         <root url="file://$USER_HOME$/.RubyMine2019.1/system/ruby_stubs/-2139151581/home/deploy/bundle/gems/sixarm_ruby_unaccent-1.2.0/test" />
       </excluded>
     </library>
+    <library name="slack-notifier (v2.3.2, asdf: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/slack-notifier-2.3.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/slack-notifier-2.3.2/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/slack-notifier-2.3.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/slack-notifier-2.3.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/slack-notifier-2.3.2/spec" />
+      </excluded>
+    </library>
     <library name="slim (v2.0.2, ruby-2.2.1-p85) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />

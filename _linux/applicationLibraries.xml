@@ -659,6 +659,17 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/analytics-ruby-2.0.13/spec" />
       </excluded>
     </library>
+    <library name="ancestry (v3.0.7, asdf: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/ancestry-3.0.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/ancestry-3.0.7/lib" />
+      </SOURCES>
+    </library>
     <library name="annotate (v2.7.1@3edd81, asdf: 2.6.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />

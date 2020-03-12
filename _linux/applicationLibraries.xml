@@ -5582,6 +5582,25 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/csv-importer-0.6.0/bin" />
       </excluded>
     </library>
+    <library name="cypress-on-rails (v1.5.1, asdf: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/cypress-on-rails-1.5.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/cypress-on-rails-1.5.1/docs" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/cypress-on-rails-1.5.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/cypress-on-rails-1.5.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/cypress-on-rails-1.5.1/docs" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/cypress-on-rails-1.5.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/cypress-on-rails-1.5.1/docs" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/cypress-on-rails-1.5.1/spec" />
+      </excluded>
+    </library>
     <library name="daemons (v1.1.9, asdf: 2.2.10) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5724,6 +5743,41 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/database_cleaner-1.7.0/lib" />
       </SOURCES>
+    </library>
+    <library name="database_cleaner (v1.8.3, asdf: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/database_cleaner-1.8.3/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/database_cleaner-1.8.3/adapters" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/database_cleaner-1.8.3/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/database_cleaner-1.8.3/adapters" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/database_cleaner-1.8.3/adapters" />
+      </excluded>
+    </library>
+    <library name="database_cleaner-active_record (v1.8.0, asdf: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/database_cleaner-active_record-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/database_cleaner-active_record-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/database_cleaner-active_record-1.8.0/tmp" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/database_cleaner-active_record-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/database_cleaner-active_record-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/database_cleaner-active_record-1.8.0/tmp" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/database_cleaner-active_record-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/database_cleaner-active_record-1.8.0/tmp" />
+      </excluded>
     </library>
     <library name="date_validator (v0.7.1, asdf: 2.2.10) [gem]" type="rubylib">
       <properties>

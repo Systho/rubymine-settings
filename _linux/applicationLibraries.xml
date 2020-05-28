@@ -7263,6 +7263,22 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.8/lib/ruby/gems/2.3.0/gems/json-schema-2.8.1/resources" />
       </excluded>
     </library>
+    <library name="json-schema (v2.8.1, asdf: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/json-schema-2.8.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/json-schema-2.8.1/resources" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/json-schema-2.8.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/json-schema-2.8.1/resources" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/json-schema-2.8.1/resources" />
+      </excluded>
+    </library>
     <library name="jwt (v1.5.6, asdf: 2.3.8) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9085,6 +9101,7 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/passenger-6.0.4/src" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/passenger-6.0.4/build" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/passenger-6.0.4/images" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/passenger-6.0.4/buildout" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/passenger-6.0.4/resources" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/passenger-6.0.4/download_cache" />
       </CLASSES>
@@ -9096,6 +9113,7 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/passenger-6.0.4/src" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/passenger-6.0.4/build" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/passenger-6.0.4/images" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/passenger-6.0.4/buildout" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/passenger-6.0.4/resources" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/passenger-6.0.4/download_cache" />
       </SOURCES>
@@ -9107,6 +9125,7 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/passenger-6.0.4/src" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/passenger-6.0.4/build" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/passenger-6.0.4/images" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/passenger-6.0.4/buildout" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/passenger-6.0.4/resources" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/passenger-6.0.4/download_cache" />
       </excluded>
@@ -11397,6 +11416,17 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.8/lib/ruby/gems/2.3.0/gems/rswag-api-2.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="rswag-api (v2.3.1, asdf: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rswag-api-2.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rswag-api-2.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rswag-specs (v2.3.1, asdf: 2.3.8) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11406,6 +11436,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.8/lib/ruby/gems/2.3.0/gems/rswag-specs-2.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rswag-specs (v2.3.1, asdf: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rswag-specs-2.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rswag-specs-2.3.1/lib" />
       </SOURCES>
     </library>
     <library name="rswag-ui (v2.3.1, asdf: 2.3.8) [gem]" type="rubylib">
@@ -11419,6 +11460,19 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.8/lib/ruby/gems/2.3.0/gems/rswag-ui-2.3.1/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.8/lib/ruby/gems/2.3.0/gems/rswag-ui-2.3.1/node_modules" />
+      </SOURCES>
+    </library>
+    <library name="rswag-ui (v2.3.1, asdf: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rswag-ui-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rswag-ui-2.3.1/node_modules" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rswag-ui-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rswag-ui-2.3.1/node_modules" />
       </SOURCES>
     </library>
     <library name="ruby-debug-ide (v0.7.2, asdf: 2.3.8) [gem]" type="rubylib">
@@ -12857,6 +12911,39 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/spree_globalize-3986112f829e/gemfiles" />
       </excluded>
     </library>
+    <library name="spree_globalize (v3.3.1@398611, asdf: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_globalize-3986112f829e/db" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_globalize-3986112f829e/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_globalize-3986112f829e/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_globalize-3986112f829e/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_globalize-3986112f829e/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_globalize-3986112f829e/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_globalize-3986112f829e/config" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_globalize-3986112f829e/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_globalize-3986112f829e/db" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_globalize-3986112f829e/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_globalize-3986112f829e/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_globalize-3986112f829e/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_globalize-3986112f829e/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_globalize-3986112f829e/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_globalize-3986112f829e/config" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_globalize-3986112f829e/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_globalize-3986112f829e/db" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_globalize-3986112f829e/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_globalize-3986112f829e/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_globalize-3986112f829e/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_globalize-3986112f829e/config" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_globalize-3986112f829e/gemfiles" />
+      </excluded>
+    </library>
     <library name="spree_globalize (v3.4.0@1b5036, asdf: 2.6.6) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -13086,6 +13173,39 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/spree_i18n-7196a90bf812/spec" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/spree_i18n-7196a90bf812/config" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/spree_i18n-7196a90bf812/gemfiles" />
+      </excluded>
+    </library>
+    <library name="spree_i18n (v3.3.2@7196a9, asdf: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_i18n-7196a90bf812/db" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_i18n-7196a90bf812/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_i18n-7196a90bf812/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_i18n-7196a90bf812/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_i18n-7196a90bf812/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_i18n-7196a90bf812/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_i18n-7196a90bf812/config" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_i18n-7196a90bf812/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_i18n-7196a90bf812/db" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_i18n-7196a90bf812/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_i18n-7196a90bf812/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_i18n-7196a90bf812/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_i18n-7196a90bf812/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_i18n-7196a90bf812/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_i18n-7196a90bf812/config" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_i18n-7196a90bf812/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_i18n-7196a90bf812/db" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_i18n-7196a90bf812/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_i18n-7196a90bf812/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_i18n-7196a90bf812/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_i18n-7196a90bf812/config" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/spree_i18n-7196a90bf812/gemfiles" />
       </excluded>
     </library>
     <library name="spree_mollie (v3.0.0@9460a6, asdf: 2.3.8) [gem]" type="rubylib">
@@ -13965,12 +14085,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/thin/1.7.2" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/thin-1.7.2/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/thin-1.7.2/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/thin-1.7.2/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/thin-1.7.2/example" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/thin/1.7.2" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/thin-1.7.2/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/thin-1.7.2/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/thin-1.7.2/lib" />

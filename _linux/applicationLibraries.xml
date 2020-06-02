@@ -2946,6 +2946,17 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.8/lib/ruby/gems/2.3.0/gems/aws-sdk-ses-1.27.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-ses (v1.30.0, asdf: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/aws-sdk-ses-1.30.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/aws-sdk-ses-1.30.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-sesv2 (v1.2.0, asdf: 2.3.8) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />

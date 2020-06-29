@@ -12,6 +12,7 @@
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="repo" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="inky" type="RHTML" />
       <mapping ext="axlsx" type="Ruby" />

@@ -17,5 +17,6 @@
     <mask>*.jbuilder</mask>
     <mask>*graphql*.rb</mask>
     <mask>*.rb</mask>
+    <mask>*html*</mask>
   </component>
 </application>

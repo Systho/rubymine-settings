@@ -17,6 +17,7 @@
       <mapping ext="repo" type="PLAIN_TEXT" />
       <mapping ext="secrets" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="inky" type="RHTML" />
       <mapping ext="axlsx" type="Ruby" />

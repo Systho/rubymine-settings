@@ -3275,22 +3275,6 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/mini_portile2-2.5.0/concourse" />
       </excluded>
     </library>
-    <library name="minitest (v5.11.3, asdf: 2.6.6) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/minitest-5.11.3/lib" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/minitest-5.11.3/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/minitest-5.11.3/lib" />
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/minitest-5.11.3/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/minitest-5.11.3/test" />
-      </excluded>
-    </library>
     <library name="minitest (v5.14.1, asdf: 2.6.6) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3575,12 +3559,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.10" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.10/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.10/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.10/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.10/patches" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.10" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.10/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.10/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.10/lib" />

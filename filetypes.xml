@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="docker/webapp/Dockerfile" type="AUTO_DETECTED" />
       <mapping pattern=".git_keep" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.test.local" type="PLAIN_TEXT" />

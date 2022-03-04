@@ -4,6 +4,7 @@
       <mapping pattern="docker/webapp/Dockerfile" type="AUTO_DETECTED" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".git_keep" type="PLAIN_TEXT" />

@@ -18,5 +18,6 @@
     <mask>*graphql*.rb</mask>
     <mask>*html*</mask>
     <mask>*.rb</mask>
+    <mask>*.styled*</mask>
   </component>
 </application>
